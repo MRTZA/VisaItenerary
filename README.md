@@ -16,3 +16,14 @@ conda env create -f environment.yml
 conda activate VisaItenerary
 jupyter-lab
 ```
+
+### Alternative setup:
+
+```bash
+conda create --name VisaItenerary python=3.5
+conda activate VisaItenerary
+conda install -c conda-forge jupyterlab
+conda install pandas
+conda install -c conda-forge folium
+jupyter-lab
+```
