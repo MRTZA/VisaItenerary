@@ -1,250 +1,1251 @@
 ﻿Transaction_Time,Merchant_Name,Location,Category,Transaction_Amount,IDs
-2020-10-11 14:26:16,Cultivar San Francisco,"37.799820, -122.442413",Restaurant,65.35,49
-2020-10-11 18:35:55,Tartine Manufactroy,"37.762030,-122.411600",Restaurant,92.15,45
-2020-10-11 16:46:39,Cultivar San Francisco,"37.799820, -122.442413",Restaurant,83.38,30
-2020-10-12 9:29:54,The Argentum Project,"37.781689, -122.409218",Restaurant,76.45,31
-2020-10-12 6:57:4,Tartine Manufactroy,"37.762030,-122.411600",Restaurant,28.72,39
-2020-10-11 15:36:42,Cultivar San Francisco,"37.799820, -122.442413",Restaurant,12.08,72
-2020-10-12 3:1:29,Mahila,"37.750900, -122.434330",Restaurant,22.99,2
-2020-10-11 11:37:26,Tartine Manufactroy,"37.762030,-122.411600",Restaurant,4.00,78
-2020-10-11 20:17:32,The Bird,"37.787201, -122.400101",Restaurant,47.40,66
-2020-10-12 9:9:52,The Bird,"37.787201, -122.400101",Restaurant,31.66,73
-2020-10-12 10:39:12,Asian American Food Company,"37.742550, -122.488070",Restaurant,12.22,28
-2020-10-12 0:37:50,Authentiko,"37.7767, -122.4025",Restaurant,28.47,90
-2020-10-11 22:54:46,Hog Island Oyster Co,"38.1621, -122.8936",Restaurant,50.05,18
-2020-10-11 23:53:8,Hoshinoya,"37.7862, -122.4297",Restaurant,25.38,99
-2020-10-11 14:19:43,Gyu-Kaku Japanese BBQ,"37.782100, -122.403770",Restaurant,60.92,29
-2020-10-12 1:47:51,Barzotto,"37.7525, -122.4209",Restaurant,13.76,74
-2020-10-12 3:56:44,Lost Resort,"37.7594, -122.4088",Restaurant,48.89,79
-2020-10-11 11:38:13,Dumpling Home,"37.7758, -122.4226",Restaurant,48.09,67
-2020-10-11 15:47:56,Chicken as Cluck,"37.7507, -122.3952",Restaurant,58.89,67
-2020-10-12 9:38:14,Dumpling Time,"37.7697, -122.4024",Restaurant,94.43,39
-2020-10-12 8:35:54,Souvla,"37.7765, -122.4250",Restaurant,93.01,98
-2020-10-11 11:37:48,Kitchen Story,"37.7643, -122.4307",Restaurant,77.95,99
-2020-10-12 1:2:59,Hog Island Oyster Co,"38.1621, -122.8936",Restaurant,5.24,71
-2020-10-11 12:13:36,Hoshinoya,"37.7862, -122.4297",Restaurant,15.40,92
-2020-10-12 5:47:41,Gyu-Kaku Japanese BBQ,"37.782100, -122.403770",Restaurant,73.59,12
-2020-10-12 0:17:22,Barzotto,"37.7862, -122.4297",Restaurant,80.79,70
-2020-10-11 22:13:1,Lost Resort,"37.7594, -122.4088",Restaurant,1.13,51
-2020-10-11 9:52:11,Dumpling Home,"37.7758, -122.4226",Restaurant,52.80,90
-2020-10-11 18:57:55,Chicken as Cluck,"37.7507, -122.3952",Restaurant,38.96,49
-2020-10-11 10:41:46,Dumpling Time,"37.7697, -122.4024",Restaurant,16.19,17
-2020-10-12 2:31:35,Souvla,"37.7765, -122.4250",Restaurant,66.43,42
-2020-10-12 0:9:11,Kitchen Story,"37.7643, -122.4307",Restaurant,79.08,38
-2020-10-12 3:53:13,House of Thai 2,"37.7722, -122.4303",Restaurant,44.68,38
-2020-10-11 18:20:15,Samila Thai Restaurant,"37.7818, -122.4852",Restaurant,10.28,46
-2020-10-12 3:48:3,Cracked & Battered - Marina,"37.8005, -122.4401",Restaurant,48.03,72
-2020-10-11 11:27:1,Limoncello,"37.7875, -122.4237",Restaurant,16.28,27
-2020-10-12 10:21:27,Kokkari Estiatorio,"37.7970, -122.3997",Restaurant,14.59,72
-2020-10-11 20:0:28,Marufuku Ramen SF,"37.782100, -122.403770",Restaurant,28.89,88
-2020-10-11 22:4:17,Aria Korean Street Food,"37.7866, -122.4180",Restaurant,62.18,93
-2020-10-12 5:58:5,Pier Market Seafood Restaurant,"37.8087, -122.4098",Restaurant,84.82,1
-2020-10-11 10:53:27,Beit Rima,"37.7687, -122.4293",Restaurant,36.09,85
-2020-10-12 9:56:41,Hook Fish,"37.7624, -122.5069",Restaurant,0.08,57
-2020-10-11 21:31:59,Alchemist Bar & Lounge,"37.7793, -122.3930",Restaurant,17.07,72
-2020-10-12 1:34:33,Presidio Kebab,"37.7881, -122.4468",Restaurant,6.30,59
-2020-10-11 19:34:29,Hog Island Oyster Co,"38.1621, -122.8936",Restaurant,52.45,71
-2020-10-11 23:31:18,Hog Island Oyster Co,"38.1621, -122.8937",Restaurant,6.21,60
-2020-10-11 23:55:12,Hog Island Oyster Co,"38.1621, -122.8938",Restaurant,97.64,71
-2020-10-11 16:34:43,Hog Island Oyster Co,"38.1621, -122.8939",Restaurant,39.25,16
-2020-10-12 3:11:39,Hog Island Oyster Co,"38.1621, -122.8940",Restaurant,39.63,24
-2020-10-12 6:41:59,Hog Island Oyster Co,"38.1621, -122.8941",Restaurant,66.84,23
-2020-10-11 14:0:41,Hog Island Oyster Co,"38.1621, -122.8942",Restaurant,0.95,32
-2020-10-11 19:35:35,Hog Island Oyster Co,"38.1621, -122.8943",Restaurant,73.01,40
-2020-10-11 19:33:9,Hog Island Oyster Co,"38.1621, -122.8944",Restaurant,83.08,35
-2020-10-11 15:3:14,Hog Island Oyster Co,"38.1621, -122.8945",Restaurant,89.13,7
-2020-10-11 22:39:3,Hog Island Oyster Co,"38.1621, -122.8946",Restaurant,23.39,33
-2020-10-11 17:18:18,Hog Island Oyster Co,"38.1621, -122.8947",Restaurant,92.86,62
-2020-10-11 10:10:38,Hog Island Oyster Co,"38.1621, -122.8948",Restaurant,77.58,68
-2020-10-11 20:0:32,Hog Island Oyster Co,"38.1621, -122.8949",Restaurant,23.68,15
-2020-10-11 9:44:28,Hog Island Oyster Co,"38.1621, -122.8950",Restaurant,23.70,62
-2020-10-11 17:4:14,Hog Island Oyster Co,"38.1621, -122.8951",Restaurant,42.54,5
-2020-10-12 9:42:50,Hog Island Oyster Co,"38.1621, -122.8952",Restaurant,0.48,43
-2020-10-12 8:29:7,Hog Island Oyster Co,"38.1621, -122.8953",Restaurant,34.37,43
-2020-10-11 19:35:0,Hog Island Oyster Co,"38.1621, -122.8954",Restaurant,27.98,84
-2020-10-11 13:1:0,Hog Island Oyster Co,"38.1621, -122.8955",Restaurant,55.27,28
-2020-10-12 4:39:9,Hog Island Oyster Co,"38.1621, -122.8956",Restaurant,69.53,76
-2020-10-11 12:17:47,Hog Island Oyster Co,"38.1621, -122.8957",Restaurant,62.56,29
-2020-10-11 23:12:39,Hog Island Oyster Co,"38.1621, -122.8958",Restaurant,84.05,4
-2020-10-11 16:5:3,Hog Island Oyster Co,"38.1621, -122.8959",Restaurant,28.92,68
-2020-10-12 2:49:52,Hog Island Oyster Co,"38.1621, -122.8960",Restaurant,52.08,44
-2020-10-12 3:50:46,Hog Island Oyster Co,"38.1621, -122.8961",Restaurant,42.58,7
-2020-10-12 10:12:26,Hog Island Oyster Co,"38.1621, -122.8962",Restaurant,68.63,82
-2020-10-12 0:13:40,Hog Island Oyster Co,"38.1621, -122.8963",Restaurant,6.33,56
-2020-10-11 17:6:37,Hog Island Oyster Co,"38.1621, -122.8964",Restaurant,48.79,89
-2020-10-11 18:54:48,Hog Island Oyster Co,"38.1621, -122.8965",Restaurant,51.43,43
-2020-10-11 10:14:32,Hog Island Oyster Co,"38.1621, -122.8966",Restaurant,16.35,54
-2020-10-11 18:15:21,The Bird,"37.787201, -122.400101",Restaurant,14.83,86
-2020-10-12 1:35:27,The Bird,"37.787201, -122.400102",Restaurant,27.65,18
-2020-10-11 15:27:58,The Bird,"37.787201, -122.400103",Restaurant,40.76,80
-2020-10-12 11:45:8,The Bird,"37.787201, -122.400104",Restaurant,19.90,9
-2020-10-11 19:26:2,The Bird,"37.787201, -122.400105",Restaurant,77.30,37
-2020-10-11 17:39:6,The Bird,"37.787201, -122.400106",Restaurant,83.66,29
-2020-10-12 1:18:57,The Bird,"37.787201, -122.400107",Restaurant,36.70,72
-2020-10-11 18:49:23,The Bird,"37.787201, -122.400108",Restaurant,53.18,80
-2020-10-12 1:52:9,The Bird,"37.787201, -122.400109",Restaurant,2.90,52
-2020-10-12 8:52:40,The Bird,"37.787201, -122.400110",Restaurant,96.61,91
-2020-10-12 2:43:50,The Bird,"37.787201, -122.400111",Restaurant,26.60,11
-2020-10-11 11:18:4,The Bird,"37.787201, -122.400112",Restaurant,61.76,22
-2020-10-11 23:42:46,The Bird,"37.787201, -122.400113",Restaurant,29.21,32
-2020-10-11 21:31:40,The Bird,"37.787201, -122.400114",Restaurant,58.08,66
-2020-10-11 13:35:29,The Bird,"37.787201, -122.400115",Restaurant,21.76,57
-2020-10-12 10:57:13,The Bird,"37.787201, -122.400116",Restaurant,48.80,28
-2020-10-11 23:47:12,The Bird,"37.787201, -122.400117",Restaurant,68.31,64
-2020-10-12 11:1:10,The Bird,"37.787201, -122.400118",Restaurant,39.03,72
-2020-10-11 14:36:51,The Bird,"37.787201, -122.400119",Restaurant,41.91,90
-2020-10-11 21:22:28,The Bird,"37.787201, -122.400120",Restaurant,40.18,51
-2020-10-11 14:20:31,The Bird,"37.787201, -122.400121",Restaurant,18.95,96
-2020-10-12 3:47:38,The Bird,"37.787201, -122.400122",Restaurant,75.97,13
-2020-10-11 12:10:6,The Bird,"37.787201, -122.400123",Restaurant,48.40,33
-2020-10-11 9:40:22,The Bird,"37.787201, -122.400124",Restaurant,45.89,19
-2020-10-11 19:23:57,Dumpling Home,"37.787201, -122.400125",Restaurant,79.68,92
-2020-10-11 19:0:53,Dumpling Home,"37.787201, -122.400126",Restaurant,62.05,63
-2020-10-12 7:25:43,Dumpling Home,"37.787201, -122.400127",Restaurant,68.30,24
-2020-10-12 4:1:1,Dumpling Home,"37.787201, -122.400128",Restaurant,82.05,66
-2020-10-11 9:30:12,Dumpling Home,"37.787201, -122.400129",Restaurant,49.50,82
-2020-10-11 19:8:41,Dumpling Home,"37.787201, -122.400130",Restaurant,1.50,28
-2020-10-11 20:44:10,Dumpling Home,"37.787201, -122.400131",Restaurant,86.95,87
-2020-10-12 7:48:31,Dumpling Home,"37.787201, -122.400132",Restaurant,22.55,44
-2020-10-11 21:58:16,Dumpling Home,"37.787201, -122.400133",Restaurant,49.24,68
-2020-10-11 19:16:15,Dumpling Home,"37.787201, -122.400134",Restaurant,67.10,61
-2020-10-11 11:19:28,Dumpling Home,"37.787201, -122.400135",Restaurant,79.71,12
-2020-10-12 7:41:37,Dumpling Home,"37.787201, -122.400136",Restaurant,35.94,89
-2020-10-12 7:51:6,Dumpling Home,"37.787201, -122.400137",Restaurant,6.60,40
-2020-10-11 16:37:13,Dumpling Home,"37.787201, -122.400138",Restaurant,8.36,17
-2020-10-11 15:26:46,Dumpling Home,"37.787201, -122.400139",Restaurant,55.55,11
-2020-10-11 13:27:22,Dumpling Home,"37.787201, -122.400140",Restaurant,86.08,47
-2020-10-11 10:27:42,Dumpling Home,"37.787201, -122.400141",Restaurant,8.93,58
-2020-10-11 9:59:31,Dumpling Home,"37.787201, -122.400142",Restaurant,81.58,37
-2020-10-11 17:45:13,Dumpling Home,"37.787201, -122.400143",Restaurant,3.11,11
-2020-10-11 22:49:15,Dumpling Home,"37.787201, -122.400144",Restaurant,76.15,2
-2020-10-11 16:6:20,Dumpling Home,"37.787201, -122.400145",Restaurant,8.17,53
-2020-10-11 23:53:40,Dumpling Home,"37.787201, -122.400146",Restaurant,94.53,53
-2020-10-11 22:18:19,Dumpling Home,"37.787201, -122.400147",Restaurant,26.68,18
-2020-10-11 20:19:16,Dumpling Home,"37.787201, -122.400148",Restaurant,77.96,1
-2020-10-11 14:1:57,Dumpling Home,"37.787201, -122.400149",Restaurant,55.57,55
-2020-10-12 0:13:57,Dumpling Home,"37.787201, -122.400150",Restaurant,28.76,38
-2020-10-11 19:39:52,Dumpling Home,"37.787201, -122.400151",Restaurant,74.27,37
-2020-10-12 8:9:52,Dumpling Home,"37.787201, -122.400152",Restaurant,49.89,19
-2020-10-11 11:16:39,Dumpling Home,"37.787201, -122.400153",Restaurant,29.28,22
-2020-10-11 9:34:26,Dumpling Home,"37.787201, -122.400154",Restaurant,15.26,79
-2020-10-11 20:13:11,Dumpling Home,"37.787201, -122.400155",Restaurant,79.19,94
-2020-10-11 23:42:57,Dumpling Home,"37.787201, -122.400156",Restaurant,49.23,100
-2020-10-12 3:24:29,Dumpling Home,"37.787201, -122.400157",Restaurant,54.78,70
-2020-10-12 8:6:59,Dumpling Home,"37.787201, -122.400158",Restaurant,28.70,41
-2020-10-12 1:47:50,Dumpling Home,"37.787201, -122.400159",Restaurant,35.70,43
-2020-10-12 8:10:38,Dumpling Home,"37.787201, -122.400160",Restaurant,43.93,66
-2020-10-12 3:51:5,Dumpling Home,"37.787201, -122.400161",Restaurant,2.52,71
-2020-10-11 19:53:2,Dumpling Home,"37.787201, -122.400162",Restaurant,35.76,86
-2020-10-11 15:56:45,Dumpling Home,"37.787201, -122.400163",Restaurant,85.36,10
-2020-10-12 5:48:28,Dumpling Home,"37.787201, -122.400164",Restaurant,82.89,68
-2020-10-11 12:24:6,Dumpling Home,"37.787201, -122.400165",Restaurant,66.75,16
-2020-10-11 17:53:40,Dumpling Home,"37.787201, -122.400166",Restaurant,34.90,31
-2020-10-12 0:11:52,Dumpling Home,"37.787201, -122.400167",Restaurant,83.94,36
-2020-10-12 4:4:22,Dumpling Home,"37.787201, -122.400168",Restaurant,33.64,84
-2020-10-11 9:24:4,Dumpling Home,"37.787201, -122.400169",Restaurant,9.57,81
-2020-10-11 16:18:51,Dumpling Home,"37.787201, -122.400170",Restaurant,52.69,61
-2020-10-11 20:59:33,Dumpling Home,"37.787201, -122.400171",Restaurant,10.11,61
-2020-10-12 10:46:13,Dumpling Home,"37.787201, -122.400172",Restaurant,48.83,30
-2020-10-12 6:56:26,Dumpling Home,"37.787201, -122.400173",Restaurant,98.76,23
-2020-10-12 3:53:0,Dumpling Home,"37.787201, -122.400174",Restaurant,20.76,33
-2020-10-12 10:42:37,Dumpling Home,"37.787201, -122.400175",Restaurant,69.50,75
-2020-10-12 6:26:35,Dumpling Home,"37.787201, -122.400176",Restaurant,97.14,98
-2020-10-12 2:1:23,Dumpling Home,"37.787201, -122.400177",Restaurant,90.98,47
-2020-10-11 16:22:29,Dumpling Home,"37.787201, -122.400178",Restaurant,29.42,45
-2020-10-12 9:15:39,Dumpling Home,"37.787201, -122.400179",Restaurant,7.74,72
-2020-10-12 1:33:35,Dumpling Home,"37.787201, -122.400180",Restaurant,23.24,44
-2020-10-11 23:19:38,Dumpling Home,"37.787201, -122.400181",Restaurant,24.82,56
-2020-10-12 4:36:43,Dumpling Home,"37.787201, -122.400182",Restaurant,62.99,75
-2020-10-12 10:25:35,Dumpling Home,"37.787201, -122.400183",Restaurant,3.50,76
-2020-10-12 8:46:15,Dumpling Home,"37.787201, -122.400184",Restaurant,84.34,74
-2020-10-11 12:52:35,Cultivar San Francisco,"37.799820, -122.442413",Restaurant,29.34,76
-2020-10-11 23:32:43,Cultivar San Francisco,"37.799820, -122.442414",Restaurant,34.27,73
-2020-10-12 10:31:56,Cultivar San Francisco,"37.799820, -122.442415",Restaurant,25.09,35
-2020-10-11 21:10:31,Cultivar San Francisco,"37.799820, -122.442416",Restaurant,92.62,52
-2020-10-11 9:17:49,Cultivar San Francisco,"37.799820, -122.442417",Restaurant,86.78,21
-2020-10-12 2:7:37,Cultivar San Francisco,"37.799820, -122.442418",Restaurant,45.93,6
-2020-10-11 23:45:41,Cultivar San Francisco,"37.799820, -122.442419",Restaurant,5.87,71
-2020-10-11 23:26:29,Cultivar San Francisco,"37.799820, -122.442420",Restaurant,76.88,69
-2020-10-12 0:33:57,Cultivar San Francisco,"37.799820, -122.442421",Restaurant,29.50,45
-2020-10-11 13:18:41,Cultivar San Francisco,"37.799820, -122.442422",Restaurant,48.76,67
-2020-10-11 21:45:54,Cultivar San Francisco,"37.799820, -122.442423",Restaurant,51.06,65
-2020-10-11 22:1:16,Cultivar San Francisco,"37.799820, -122.442424",Restaurant,41.06,66
-2020-10-11 23:26:55,Cultivar San Francisco,"37.799820, -122.442425",Restaurant,40.67,14
-2020-10-12 9:41:2,Cultivar San Francisco,"37.799820, -122.442426",Restaurant,29.25,49
-2020-10-11 18:30:23,Cultivar San Francisco,"37.799820, -122.442427",Restaurant,86.18,11
-2020-10-11 15:44:5,Cultivar San Francisco,"37.799820, -122.442428",Restaurant,7.32,36
-2020-10-12 1:55:33,Cultivar San Francisco,"37.799820, -122.442429",Restaurant,38.24,25
-2020-10-11 14:50:36,Cultivar San Francisco,"37.799820, -122.442430",Restaurant,79.11,5
-2020-10-11 20:14:54,Cultivar San Francisco,"37.799820, -122.442431",Restaurant,57.51,25
-2020-10-12 1:17:47,Cultivar San Francisco,"37.799820, -122.442432",Restaurant,65.95,24
-2020-10-11 21:32:49,Cultivar San Francisco,"37.799820, -122.442433",Restaurant,72.47,69
-2020-10-11 12:12:47,Cultivar San Francisco,"37.799820, -122.442434",Restaurant,62.48,11
-2020-10-11 21:8:19,Cultivar San Francisco,"37.799820, -122.442435",Restaurant,83.41,76
-2020-10-12 8:53:36,Cultivar San Francisco,"37.799820, -122.442436",Restaurant,69.58,19
-2020-10-11 15:6:37,Cultivar San Francisco,"37.799820, -122.442437",Restaurant,51.51,54
-2020-10-11 15:19:48,Cultivar San Francisco,"37.799820, -122.442438",Restaurant,49.85,45
-2020-10-12 8:18:45,Cultivar San Francisco,"37.799820, -122.442439",Restaurant,47.96,54
-2020-10-11 11:22:39,Cultivar San Francisco,"37.799820, -122.442440",Restaurant,9.90,84
-2020-10-12 7:15:59,Cultivar San Francisco,"37.799820, -122.442441",Restaurant,11.20,49
-2020-10-12 4:33:56,Cultivar San Francisco,"37.799820, -122.442442",Restaurant,33.75,33
-2020-10-12 0:28:39,Cultivar San Francisco,"37.799820, -122.442443",Restaurant,42.82,83
-2020-10-12 0:40:59,Cultivar San Francisco,"37.799820, -122.442444",Restaurant,63.00,7
-2020-10-12 7:6:39,Cultivar San Francisco,"37.799820, -122.442445",Restaurant,16.03,43
-2020-10-11 12:33:10,Cultivar San Francisco,"37.799820, -122.442446",Restaurant,74.85,78
-2020-10-11 23:28:24,Cultivar San Francisco,"37.799820, -122.442447",Restaurant,82.06,63
-2020-10-11 18:5:49,Cultivar San Francisco,"37.799820, -122.442448",Restaurant,72.89,77
-2020-10-12 3:32:51,Cultivar San Francisco,"37.799820, -122.442449",Restaurant,40.06,17
-2020-10-11 11:5:32,Cultivar San Francisco,"37.799820, -122.442450",Restaurant,78.11,48
-2020-10-11 9:15:2,Cultivar San Francisco,"37.799820, -122.442451",Restaurant,59.72,74
-2020-10-12 3:22:17,Cultivar San Francisco,"37.799820, -122.442452",Restaurant,68.66,29
-2020-10-11 23:6:9,Cultivar San Francisco,"37.799820, -122.442453",Restaurant,90.16,3
-2020-10-12 2:28:48,Cultivar San Francisco,"37.799820, -122.442454",Restaurant,0.36,35
-2020-10-12 5:21:22,Cultivar San Francisco,"37.799820, -122.442455",Restaurant,0.93,99
-2020-10-12 11:55:26,Cultivar San Francisco,"37.799820, -122.442456",Restaurant,24.58,49
-2020-10-11 13:15:25,Cultivar San Francisco,"37.799820, -122.442457",Restaurant,94.46,12
-2020-10-12 7:24:44,Cultivar San Francisco,"37.799820, -122.442458",Restaurant,17.51,81
-2020-10-12 3:30:26,Cultivar San Francisco,"37.799820, -122.442459",Restaurant,26.34,63
-2020-10-11 16:43:39,Cultivar San Francisco,"37.799820, -122.442460",Restaurant,39.00,63
-2020-10-11 21:4:43,Cultivar San Francisco,"37.799820, -122.442461",Restaurant,6.61,38
-2020-10-11 20:20:11,Cultivar San Francisco,"37.799820, -122.442462",Restaurant,76.79,92
-2020-10-11 11:55:19,Gyu-Kaku Japanese BBQ,"37.782100, -122.403770",Restaurant,2.84,90
-2020-10-12 3:49:34,Gyu-Kaku Japanese BBQ,"37.782100, -122.403771",Restaurant,45.97,81
-2020-10-11 22:46:1,Gyu-Kaku Japanese BBQ,"37.782100, -122.403772",Restaurant,63.94,61
-2020-10-11 19:45:44,Gyu-Kaku Japanese BBQ,"37.782100, -122.403773",Restaurant,16.57,96
-2020-10-12 0:58:43,Gyu-Kaku Japanese BBQ,"37.782100, -122.403774",Restaurant,1.06,72
-2020-10-12 7:0:16,Gyu-Kaku Japanese BBQ,"37.782100, -122.403775",Restaurant,94.90,48
-2020-10-12 3:47:48,Gyu-Kaku Japanese BBQ,"37.782100, -122.403776",Restaurant,3.43,68
-2020-10-12 4:49:18,Gyu-Kaku Japanese BBQ,"37.782100, -122.403777",Restaurant,60.57,53
-2020-10-11 12:35:13,Gyu-Kaku Japanese BBQ,"37.782100, -122.403778",Restaurant,49.79,76
-2020-10-12 2:32:1,Gyu-Kaku Japanese BBQ,"37.782100, -122.403779",Restaurant,34.82,18
-2020-10-11 21:8:15,Gyu-Kaku Japanese BBQ,"37.782100, -122.403780",Restaurant,37.87,97
-2020-10-11 14:13:19,Gyu-Kaku Japanese BBQ,"37.782100, -122.403781",Restaurant,87.52,96
-2020-10-11 14:34:55,Gyu-Kaku Japanese BBQ,"37.782100, -122.403782",Restaurant,16.13,61
-2020-10-11 21:17:46,Gyu-Kaku Japanese BBQ,"37.782100, -122.403783",Restaurant,63.11,5
-2020-10-11 23:18:31,Gyu-Kaku Japanese BBQ,"37.782100, -122.403784",Restaurant,88.32,33
-2020-10-11 16:0:0,Gyu-Kaku Japanese BBQ,"37.782100, -122.403785",Restaurant,50.72,91
-2020-10-11 16:20:30,Gyu-Kaku Japanese BBQ,"37.782100, -122.403786",Restaurant,45.31,88
-2020-10-12 2:43:3,Gyu-Kaku Japanese BBQ,"37.782100, -122.403787",Restaurant,21.26,2
-2020-10-12 3:7:40,Gyu-Kaku Japanese BBQ,"37.782100, -122.403788",Restaurant,83.50,27
-2020-10-12 6:6:33,Gyu-Kaku Japanese BBQ,"37.782100, -122.403789",Restaurant,97.89,97
-2020-10-12 8:53:23,Lost Resort,"37.7594, -122.4088",Restaurant,11.11,72
-2020-10-11 10:9:40,Lost Resort,"37.7594, -122.4089",Restaurant,68.55,29
-2020-10-11 22:50:53,Lost Resort,"37.7594, -122.4090",Restaurant,59.24,48
-2020-10-11 20:18:35,Lost Resort,"37.7594, -122.4091",Restaurant,31.67,6
-2020-10-12 7:30:12,Lost Resort,"37.7594, -122.4092",Restaurant,45.15,77
-2020-10-11 17:40:45,Lost Resort,"37.7594, -122.4093",Restaurant,56.07,95
-2020-10-11 17:48:4,Lost Resort,"37.7594, -122.4094",Restaurant,80.77,45
-2020-10-12 5:27:16,Lost Resort,"37.7594, -122.4095",Restaurant,28.77,80
-2020-10-11 12:34:31,Lost Resort,"37.7594, -122.4096",Restaurant,88.34,78
-2020-10-11 12:1:13,Lost Resort,"37.7594, -122.4097",Restaurant,3.22,27
-2020-10-11 19:26:47,Lost Resort,"37.7594, -122.4098",Restaurant,43.62,88
-2020-10-12 2:2:46,Lost Resort,"37.7594, -122.4099",Restaurant,45.05,8
-2020-10-11 22:59:52,Lost Resort,"37.7594, -122.4100",Restaurant,72.68,79
-2020-10-11 11:23:17,Lost Resort,"37.7594, -122.4101",Restaurant,34.82,87
-2020-10-12 10:9:58,Lost Resort,"37.7594, -122.4102",Restaurant,9.17,2
-2020-10-12 11:2:48,Lost Resort,"37.7594, -122.4103",Restaurant,91.18,12
-2020-10-12 9:44:38,Lost Resort,"37.7594, -122.4104",Restaurant,0.58,25
-2020-10-11 23:51:18,Lost Resort,"37.7594, -122.4105",Restaurant,74.73,91
-2020-10-11 11:18:6,Lost Resort,"37.7594, -122.4106",Restaurant,60.22,26
-2020-10-12 11:17:27,Lost Resort,"37.7594, -122.4107",Restaurant,6.69,82
+2020-10-30 19:7:51,Cultivar San Francisco,"37.799820, -122.442413",Restaurant,18.93,40
+2020-10-29 1:18:9,Tartine Manufactroy,"37.762030,-122.411600",Restaurant,10.24,266
+2020-10-29 18:24:43,Cultivar San Francisco,"37.799820, -122.442413",Restaurant,27.61,619
+2020-10-30 14:17:34,The Argentum Project,"37.781689, -122.409218",Restaurant,3.50,893
+2020-10-31 3:48:55,Tartine Manufactroy,"37.762030,-122.411600",Restaurant,1.85,385
+2020-10-28 18:45:9,Cultivar San Francisco,"37.799820, -122.442413",Restaurant,2.51,892
+2020-10-28 20:41:31,Mahila,"37.750900, -122.434330",Restaurant,35.45,281
+2020-10-31 11:9:24,Tartine Manufactroy,"37.762030,-122.411600",Restaurant,48.19,682
+2020-10-30 20:2:49,The Bird,"37.787201, -122.400101",Restaurant,32.35,885
+2020-10-30 14:27:56,The Bird,"37.787201, -122.400101",Restaurant,49.25,428
+2020-10-28 19:10:49,Asian American Food Company,"37.742550, -122.488070",Restaurant,50.31,984
+2020-10-30 4:41:30,Authentiko,"37.7767, -122.4025",Restaurant,31.93,509
+2020-10-30 8:49:31,Hog Island Oyster Co,"38.1621, -122.8936",Restaurant,5.65,253
+2020-10-29 12:42:36,Hoshinoya,"37.7862, -122.4297",Restaurant,45.97,775
+2020-10-30 17:53:43,Gyu-Kaku Japanese BBQ,"37.782100, -122.403770",Restaurant,57.25,362
+2020-10-30 17:15:16,Barzotto,"37.7525, -122.4209",Restaurant,14.40,817
+2020-10-28 14:14:35,Lost Resort,"37.7594, -122.4088",Restaurant,50.31,169
+2020-10-30 22:2:6,Dumpling Home,"37.7758, -122.4226",Restaurant,33.61,850
+2020-10-28 14:52:2,Chicken as Cluck,"37.7507, -122.3952",Restaurant,44.43,18
+2020-10-28 23:42:29,Dumpling Time,"37.7697, -122.4024",Restaurant,21.69,35
+2020-10-29 19:17:21,Souvla,"37.7765, -122.4250",Restaurant,31.94,605
+2020-10-30 10:10:39,Kitchen Story,"37.7643, -122.4307",Restaurant,38.43,281
+2020-10-30 12:35:29,Hog Island Oyster Co,"38.1621, -122.8936",Restaurant,14.03,626
+2020-10-31 11:19:1,Hoshinoya,"37.7862, -122.4297",Restaurant,32.41,447
+2020-10-29 2:15:19,Gyu-Kaku Japanese BBQ,"37.782100, -122.403770",Restaurant,42.26,502
+2020-10-29 7:44:28,Barzotto,"37.7862, -122.4297",Restaurant,7.75,901
+2020-10-30 11:58:53,Lost Resort,"37.7594, -122.4088",Restaurant,55.94,582
+2020-10-30 23:44:2,Dumpling Home,"37.7758, -122.4226",Restaurant,22.22,299
+2020-10-30 23:10:34,Chicken as Cluck,"37.7507, -122.3952",Restaurant,4.68,209
+2020-10-30 18:35:33,Dumpling Time,"37.7697, -122.4024",Restaurant,33.12,690
+2020-10-30 14:9:47,Souvla,"37.7765, -122.4250",Restaurant,21.61,890
+2020-10-30 4:35:13,Kitchen Story,"37.7643, -122.4307",Restaurant,1.74,18
+2020-10-31 3:36:17,House of Thai 2,"37.7722, -122.4303",Restaurant,16.34,752
+2020-10-28 22:33:4,Samila Thai Restaurant,"37.7818, -122.4852",Restaurant,43.26,912
+2020-10-31 4:22:18,Cracked & Battered - Marina,"37.8005, -122.4401",Restaurant,3.15,871
+2020-10-31 9:37:29,Limoncello,"37.7875, -122.4237",Restaurant,10.84,243
+2020-10-29 15:31:56,Kokkari Estiatorio,"37.7970, -122.3997",Restaurant,31.54,420
+2020-10-31 10:1:54,Marufuku Ramen SF,"37.782100, -122.403770",Restaurant,5.82,156
+2020-10-29 15:7:5,Aria Korean Street Food,"37.7866, -122.4180",Restaurant,6.39,72
+2020-10-28 9:35:23,Pier Market Seafood Restaurant,"37.8087, -122.4098",Restaurant,33.87,45
+2020-10-31 10:23:1,Beit Rima,"37.7687, -122.4293",Restaurant,46.11,301
+2020-10-31 4:47:30,Hook Fish,"37.7624, -122.5069",Restaurant,35.10,110
+2020-10-30 4:7:34,Alchemist Bar & Lounge,"37.7793, -122.3930",Restaurant,19.85,508
+2020-10-30 8:29:38,Presidio Kebab,"37.7881, -122.4468",Restaurant,40.86,976
+2020-10-31 1:23:52,Hog Island Oyster Co,"38.1621, -122.8936",Restaurant,6.53,316
+2020-10-29 17:20:6,Hog Island Oyster Co,"38.1621, -122.8937",Restaurant,34.23,184
+2020-10-29 2:45:18,Hog Island Oyster Co,"38.1621, -122.8938",Restaurant,21.20,657
+2020-10-28 11:7:37,Hog Island Oyster Co,"38.1621, -122.8939",Restaurant,14.02,116
+2020-10-30 2:17:6,Hog Island Oyster Co,"38.1621, -122.8940",Restaurant,22.21,224
+2020-10-29 13:31:2,Hog Island Oyster Co,"38.1621, -122.8941",Restaurant,38.11,804
+2020-10-31 0:39:2,Hog Island Oyster Co,"38.1621, -122.8942",Restaurant,22.01,686
+2020-10-30 2:30:34,Hog Island Oyster Co,"38.1621, -122.8943",Restaurant,21.17,875
+2020-10-29 5:52:38,Hog Island Oyster Co,"38.1621, -122.8944",Restaurant,49.12,991
+2020-10-30 13:28:20,Hog Island Oyster Co,"38.1621, -122.8945",Restaurant,8.29,727
+2020-10-31 0:30:28,Hog Island Oyster Co,"38.1621, -122.8946",Restaurant,59.31,222
+2020-10-30 10:31:42,Hog Island Oyster Co,"38.1621, -122.8947",Restaurant,57.92,317
+2020-10-29 5:19:32,Hog Island Oyster Co,"38.1621, -122.8948",Restaurant,52.74,782
+2020-10-28 13:44:17,Hog Island Oyster Co,"38.1621, -122.8949",Restaurant,27.91,841
+2020-10-29 1:21:50,Hog Island Oyster Co,"38.1621, -122.8950",Restaurant,7.54,241
+2020-10-30 21:17:18,Hog Island Oyster Co,"38.1621, -122.8951",Restaurant,31.74,156
+2020-10-29 3:38:12,Hog Island Oyster Co,"38.1621, -122.8952",Restaurant,28.59,400
+2020-10-29 12:33:24,Hog Island Oyster Co,"38.1621, -122.8953",Restaurant,26.54,739
+2020-10-31 10:4:55,Hog Island Oyster Co,"38.1621, -122.8954",Restaurant,34.63,665
+2020-10-28 15:18:41,Hog Island Oyster Co,"38.1621, -122.8955",Restaurant,54.87,328
+2020-10-30 9:7:7,Hog Island Oyster Co,"38.1621, -122.8956",Restaurant,8.91,930
+2020-10-28 23:31:31,Hog Island Oyster Co,"38.1621, -122.8957",Restaurant,32.68,897
+2020-10-29 5:43:0,Hog Island Oyster Co,"38.1621, -122.8958",Restaurant,4.46,931
+2020-10-29 1:16:11,Hog Island Oyster Co,"38.1621, -122.8959",Restaurant,16.42,712
+2020-10-31 1:18:2,Hog Island Oyster Co,"38.1621, -122.8960",Restaurant,57.56,35
+2020-10-31 7:10:18,Hog Island Oyster Co,"38.1621, -122.8961",Restaurant,33.77,778
+2020-10-31 10:36:13,Hog Island Oyster Co,"38.1621, -122.8962",Restaurant,19.78,899
+2020-10-30 15:2:19,Hog Island Oyster Co,"38.1621, -122.8963",Restaurant,25.48,921
+2020-10-30 17:16:30,Hog Island Oyster Co,"38.1621, -122.8964",Restaurant,10.37,236
+2020-10-30 23:28:8,Hog Island Oyster Co,"38.1621, -122.8965",Restaurant,44.01,159
+2020-10-29 8:23:39,Hog Island Oyster Co,"38.1621, -122.8966",Restaurant,53.73,487
+2020-10-28 23:4:34,The Bird,"37.787201, -122.400101",Restaurant,15.43,739
+2020-10-31 6:5:21,The Bird,"37.787201, -122.400102",Restaurant,53.54,954
+2020-10-29 19:56:30,The Bird,"37.787201, -122.400103",Restaurant,21.27,222
+2020-10-29 23:50:18,The Bird,"37.787201, -122.400104",Restaurant,33.16,410
+2020-10-30 18:27:0,The Bird,"37.787201, -122.400105",Restaurant,33.97,800
+2020-10-30 8:48:26,The Bird,"37.787201, -122.400106",Restaurant,35.86,898
+2020-10-30 7:12:37,The Bird,"37.787201, -122.400107",Restaurant,10.91,711
+2020-10-29 22:6:19,The Bird,"37.787201, -122.400108",Restaurant,4.91,846
+2020-10-29 14:11:51,The Bird,"37.787201, -122.400109",Restaurant,17.48,543
+2020-10-28 11:0:57,The Bird,"37.787201, -122.400110",Restaurant,53.04,37
+2020-10-30 0:12:7,The Bird,"37.787201, -122.400111",Restaurant,27.80,395
+2020-10-30 19:50:13,The Bird,"37.787201, -122.400112",Restaurant,25.80,235
+2020-10-29 6:12:28,The Bird,"37.787201, -122.400113",Restaurant,52.97,937
+2020-10-29 17:46:22,The Bird,"37.787201, -122.400114",Restaurant,43.11,208
+2020-10-29 10:33:47,The Bird,"37.787201, -122.400115",Restaurant,18.94,661
+2020-10-29 3:59:26,The Bird,"37.787201, -122.400116",Restaurant,18.96,20
+2020-10-29 3:38:14,The Bird,"37.787201, -122.400117",Restaurant,21.74,126
+2020-10-31 6:50:14,The Bird,"37.787201, -122.400118",Restaurant,53.03,562
+2020-10-30 12:15:36,The Bird,"37.787201, -122.400119",Restaurant,34.02,393
+2020-10-28 16:52:11,The Bird,"37.787201, -122.400120",Restaurant,36.63,322
+2020-10-30 10:13:32,The Bird,"37.787201, -122.400121",Restaurant,22.15,554
+2020-10-29 18:5:42,The Bird,"37.787201, -122.400122",Restaurant,54.67,831
+2020-10-30 6:59:4,The Bird,"37.787201, -122.400123",Restaurant,9.18,851
+2020-10-29 0:45:35,The Bird,"37.787201, -122.400124",Restaurant,9.65,912
+2020-10-30 10:25:43,Dumpling Home,"37.787201, -122.400125",Restaurant,43.86,761
+2020-10-30 13:14:44,Dumpling Home,"37.787201, -122.400126",Restaurant,28.39,959
+2020-10-31 4:7:59,Dumpling Home,"37.787201, -122.400127",Restaurant,42.44,232
+2020-10-29 3:38:28,Dumpling Home,"37.787201, -122.400128",Restaurant,16.58,639
+2020-10-28 10:33:26,Dumpling Home,"37.787201, -122.400129",Restaurant,1.36,433
+2020-10-28 9:32:50,Dumpling Home,"37.787201, -122.400130",Restaurant,19.50,300
+2020-10-28 12:25:31,Dumpling Home,"37.787201, -122.400131",Restaurant,56.49,668
+2020-10-28 20:57:0,Dumpling Home,"37.787201, -122.400132",Restaurant,19.88,285
+2020-10-29 5:30:3,Dumpling Home,"37.787201, -122.400133",Restaurant,36.22,158
+2020-10-28 12:36:22,Dumpling Home,"37.787201, -122.400134",Restaurant,59.48,307
+2020-10-29 23:46:2,Dumpling Home,"37.787201, -122.400135",Restaurant,9.05,52
+2020-10-28 21:49:17,Dumpling Home,"37.787201, -122.400136",Restaurant,38.71,828
+2020-10-28 18:32:3,Dumpling Home,"37.787201, -122.400137",Restaurant,59.80,492
+2020-10-31 3:44:24,Dumpling Home,"37.787201, -122.400138",Restaurant,10.89,416
+2020-10-30 19:13:20,Dumpling Home,"37.787201, -122.400139",Restaurant,7.53,161
+2020-10-29 22:32:25,Dumpling Home,"37.787201, -122.400140",Restaurant,21.80,275
+2020-10-28 10:25:11,Dumpling Home,"37.787201, -122.400141",Restaurant,20.01,657
+2020-10-29 8:34:51,Dumpling Home,"37.787201, -122.400142",Restaurant,9.18,825
+2020-10-31 7:28:40,Dumpling Home,"37.787201, -122.400143",Restaurant,22.74,705
+2020-10-28 9:37:2,Dumpling Home,"37.787201, -122.400144",Restaurant,43.28,274
+2020-10-30 6:51:36,Dumpling Home,"37.787201, -122.400145",Restaurant,20.71,802
+2020-10-28 23:57:24,Dumpling Home,"37.787201, -122.400146",Restaurant,8.36,124
+2020-10-30 0:21:5,Dumpling Home,"37.787201, -122.400147",Restaurant,27.73,679
+2020-10-30 9:1:32,Dumpling Home,"37.787201, -122.400148",Restaurant,46.98,775
+2020-10-29 14:41:35,Dumpling Home,"37.787201, -122.400149",Restaurant,49.38,269
+2020-10-29 20:43:41,Dumpling Home,"37.787201, -122.400150",Restaurant,2.47,147
+2020-10-28 12:33:37,Dumpling Home,"37.787201, -122.400151",Restaurant,10.80,964
+2020-10-30 15:6:36,Dumpling Home,"37.787201, -122.400152",Restaurant,23.01,947
+2020-10-29 13:47:1,Dumpling Home,"37.787201, -122.400153",Restaurant,25.99,26
+2020-10-31 6:0:44,Dumpling Home,"37.787201, -122.400154",Restaurant,39.21,426
+2020-10-31 8:47:58,Dumpling Home,"37.787201, -122.400155",Restaurant,2.10,217
+2020-10-29 8:42:40,Dumpling Home,"37.787201, -122.400156",Restaurant,51.17,912
+2020-10-30 16:55:48,Dumpling Home,"37.787201, -122.400157",Restaurant,36.52,725
+2020-10-30 23:34:19,Dumpling Home,"37.787201, -122.400158",Restaurant,54.81,932
+2020-10-29 6:13:52,Dumpling Home,"37.787201, -122.400159",Restaurant,48.21,886
+2020-10-31 8:35:20,Dumpling Home,"37.787201, -122.400160",Restaurant,19.57,760
+2020-10-29 23:6:28,Dumpling Home,"37.787201, -122.400161",Restaurant,32.74,392
+2020-10-28 9:29:44,Dumpling Home,"37.787201, -122.400162",Restaurant,15.91,326
+2020-10-30 8:57:35,Dumpling Home,"37.787201, -122.400163",Restaurant,9.45,31
+2020-10-29 7:31:12,Dumpling Home,"37.787201, -122.400164",Restaurant,58.68,511
+2020-10-29 17:14:44,Dumpling Home,"37.787201, -122.400165",Restaurant,16.04,742
+2020-10-30 18:21:6,Dumpling Home,"37.787201, -122.400166",Restaurant,40.93,450
+2020-10-30 21:28:45,Dumpling Home,"37.787201, -122.400167",Restaurant,45.06,492
+2020-10-29 6:1:11,Dumpling Home,"37.787201, -122.400168",Restaurant,5.10,26
+2020-10-29 17:14:19,Dumpling Home,"37.787201, -122.400169",Restaurant,1.99,443
+2020-10-29 17:19:54,Dumpling Home,"37.787201, -122.400170",Restaurant,9.07,418
+2020-10-29 7:54:46,Dumpling Home,"37.787201, -122.400171",Restaurant,52.72,486
+2020-10-28 23:4:0,Dumpling Home,"37.787201, -122.400172",Restaurant,4.58,230
+2020-10-31 7:48:53,Dumpling Home,"37.787201, -122.400173",Restaurant,53.55,557
+2020-10-29 4:18:14,Dumpling Home,"37.787201, -122.400174",Restaurant,5.66,781
+2020-10-28 20:40:7,Dumpling Home,"37.787201, -122.400175",Restaurant,5.33,299
+2020-10-30 20:43:33,Dumpling Home,"37.787201, -122.400176",Restaurant,38.54,272
+2020-10-31 4:17:57,Dumpling Home,"37.787201, -122.400177",Restaurant,36.80,812
+2020-10-31 4:19:2,Dumpling Home,"37.787201, -122.400178",Restaurant,33.90,485
+2020-10-28 13:56:41,Dumpling Home,"37.787201, -122.400179",Restaurant,21.59,753
+2020-10-31 11:15:7,Dumpling Home,"37.787201, -122.400180",Restaurant,23.55,189
+2020-10-29 2:7:26,Dumpling Home,"37.787201, -122.400181",Restaurant,13.73,665
+2020-10-30 8:50:23,Dumpling Home,"37.787201, -122.400182",Restaurant,10.92,551
+2020-10-28 10:6:27,Dumpling Home,"37.787201, -122.400183",Restaurant,27.98,507
+2020-10-31 3:32:36,Dumpling Home,"37.787201, -122.400184",Restaurant,47.26,235
+2020-10-30 0:32:58,Cultivar San Francisco,"37.799820, -122.442413",Restaurant,11.10,43
+2020-10-30 9:0:26,Cultivar San Francisco,"37.799820, -122.442414",Restaurant,21.02,969
+2020-10-30 7:27:49,Cultivar San Francisco,"37.799820, -122.442415",Restaurant,57.40,870
+2020-10-28 13:57:27,Cultivar San Francisco,"37.799820, -122.442416",Restaurant,11.25,728
+2020-10-31 10:7:8,Cultivar San Francisco,"37.799820, -122.442417",Restaurant,36.17,791
+2020-10-30 12:7:33,Cultivar San Francisco,"37.799820, -122.442418",Restaurant,15.98,141
+2020-10-28 20:52:59,Cultivar San Francisco,"37.799820, -122.442419",Restaurant,57.18,762
+2020-10-31 9:2:12,Cultivar San Francisco,"37.799820, -122.442420",Restaurant,41.63,301
+2020-10-30 23:47:55,Cultivar San Francisco,"37.799820, -122.442421",Restaurant,36.34,27
+2020-10-30 5:32:14,Cultivar San Francisco,"37.799820, -122.442422",Restaurant,8.46,42
+2020-10-28 19:49:47,Cultivar San Francisco,"37.799820, -122.442423",Restaurant,54.89,150
+2020-10-28 10:13:7,Cultivar San Francisco,"37.799820, -122.442424",Restaurant,35.05,371
+2020-10-31 7:6:16,Cultivar San Francisco,"37.799820, -122.442425",Restaurant,13.66,33
+2020-10-31 1:21:47,Cultivar San Francisco,"37.799820, -122.442426",Restaurant,38.08,941
+2020-10-30 10:56:16,Cultivar San Francisco,"37.799820, -122.442427",Restaurant,26.23,787
+2020-10-31 5:59:7,Cultivar San Francisco,"37.799820, -122.442428",Restaurant,42.70,927
+2020-10-30 3:23:19,Cultivar San Francisco,"37.799820, -122.442429",Restaurant,38.83,600
+2020-10-31 4:27:46,Cultivar San Francisco,"37.799820, -122.442430",Restaurant,42.78,965
+2020-10-31 0:27:50,Cultivar San Francisco,"37.799820, -122.442431",Restaurant,24.45,712
+2020-10-30 23:28:10,Cultivar San Francisco,"37.799820, -122.442432",Restaurant,43.91,158
+2020-10-29 0:28:12,Cultivar San Francisco,"37.799820, -122.442433",Restaurant,2.27,822
+2020-10-30 14:28:24,Cultivar San Francisco,"37.799820, -122.442434",Restaurant,38.63,903
+2020-10-31 3:22:54,Cultivar San Francisco,"37.799820, -122.442435",Restaurant,47.99,410
+2020-10-29 8:3:23,Cultivar San Francisco,"37.799820, -122.442436",Restaurant,28.57,313
+2020-10-30 4:16:20,Cultivar San Francisco,"37.799820, -122.442437",Restaurant,31.39,552
+2020-10-29 0:6:24,Cultivar San Francisco,"37.799820, -122.442438",Restaurant,17.06,123
+2020-10-30 11:18:48,Cultivar San Francisco,"37.799820, -122.442439",Restaurant,22.75,24
+2020-10-29 0:13:56,Cultivar San Francisco,"37.799820, -122.442440",Restaurant,46.82,963
+2020-10-28 21:44:24,Cultivar San Francisco,"37.799820, -122.442441",Restaurant,18.12,692
+2020-10-29 15:22:23,Cultivar San Francisco,"37.799820, -122.442442",Restaurant,37.87,602
+2020-10-29 0:13:11,Cultivar San Francisco,"37.799820, -122.442443",Restaurant,37.14,316
+2020-10-30 7:0:9,Cultivar San Francisco,"37.799820, -122.442444",Restaurant,39.13,685
+2020-10-29 5:31:50,Cultivar San Francisco,"37.799820, -122.442445",Restaurant,20.77,491
+2020-10-29 1:51:47,Cultivar San Francisco,"37.799820, -122.442446",Restaurant,55.76,635
+2020-10-29 11:26:59,Cultivar San Francisco,"37.799820, -122.442447",Restaurant,18.03,231
+2020-10-30 18:41:3,Cultivar San Francisco,"37.799820, -122.442448",Restaurant,54.29,246
+2020-10-29 23:31:31,Cultivar San Francisco,"37.799820, -122.442449",Restaurant,5.06,951
+2020-10-29 3:39:1,Cultivar San Francisco,"37.799820, -122.442450",Restaurant,57.98,656
+2020-10-29 14:32:43,Cultivar San Francisco,"37.799820, -122.442451",Restaurant,13.87,296
+2020-10-29 2:45:42,Cultivar San Francisco,"37.799820, -122.442452",Restaurant,46.98,254
+2020-10-28 10:29:56,Cultivar San Francisco,"37.799820, -122.442453",Restaurant,59.07,53
+2020-10-28 10:39:16,Cultivar San Francisco,"37.799820, -122.442454",Restaurant,39.66,372
+2020-10-31 6:7:1,Cultivar San Francisco,"37.799820, -122.442455",Restaurant,48.86,397
+2020-10-30 7:32:4,Cultivar San Francisco,"37.799820, -122.442456",Restaurant,13.00,170
+2020-10-30 13:25:58,Cultivar San Francisco,"37.799820, -122.442457",Restaurant,56.60,994
+2020-10-29 10:4:42,Cultivar San Francisco,"37.799820, -122.442458",Restaurant,9.94,808
+2020-10-31 1:8:58,Cultivar San Francisco,"37.799820, -122.442459",Restaurant,19.81,56
+2020-10-31 11:47:4,Cultivar San Francisco,"37.799820, -122.442460",Restaurant,37.65,527
+2020-10-30 17:7:41,Cultivar San Francisco,"37.799820, -122.442461",Restaurant,53.44,99
+2020-10-29 4:13:4,Cultivar San Francisco,"37.799820, -122.442462",Restaurant,43.64,792
+2020-10-29 0:54:59,Gyu-Kaku Japanese BBQ,"37.782100, -122.403770",Restaurant,41.01,175
+2020-10-29 12:44:11,Gyu-Kaku Japanese BBQ,"37.782100, -122.403771",Restaurant,31.12,968
+2020-10-29 22:2:29,Gyu-Kaku Japanese BBQ,"37.782100, -122.403772",Restaurant,43.59,327
+2020-10-29 11:26:58,Gyu-Kaku Japanese BBQ,"37.782100, -122.403773",Restaurant,0.40,602
+2020-10-31 1:39:48,Gyu-Kaku Japanese BBQ,"37.782100, -122.403774",Restaurant,54.01,147
+2020-10-29 7:23:52,Gyu-Kaku Japanese BBQ,"37.782100, -122.403775",Restaurant,18.15,78
+2020-10-28 10:29:2,Gyu-Kaku Japanese BBQ,"37.782100, -122.403776",Restaurant,33.44,690
+2020-10-28 14:1:48,Gyu-Kaku Japanese BBQ,"37.782100, -122.403777",Restaurant,8.63,847
+2020-10-28 14:49:21,Gyu-Kaku Japanese BBQ,"37.782100, -122.403778",Restaurant,11.20,828
+2020-10-29 7:26:57,Gyu-Kaku Japanese BBQ,"37.782100, -122.403779",Restaurant,5.99,528
+2020-10-30 14:57:51,Gyu-Kaku Japanese BBQ,"37.782100, -122.403780",Restaurant,37.49,420
+2020-10-30 9:36:11,Gyu-Kaku Japanese BBQ,"37.782100, -122.403781",Restaurant,55.54,184
+2020-10-29 23:44:50,Gyu-Kaku Japanese BBQ,"37.782100, -122.403782",Restaurant,13.50,857
+2020-10-29 7:28:41,Gyu-Kaku Japanese BBQ,"37.782100, -122.403783",Restaurant,38.26,654
+2020-10-29 20:57:37,Gyu-Kaku Japanese BBQ,"37.782100, -122.403784",Restaurant,16.41,419
+2020-10-29 9:15:27,Gyu-Kaku Japanese BBQ,"37.782100, -122.403785",Restaurant,3.12,431
+2020-10-29 8:14:31,Gyu-Kaku Japanese BBQ,"37.782100, -122.403786",Restaurant,51.94,849
+2020-10-30 2:0:8,Gyu-Kaku Japanese BBQ,"37.782100, -122.403787",Restaurant,47.04,977
+2020-10-31 6:42:33,Gyu-Kaku Japanese BBQ,"37.782100, -122.403788",Restaurant,47.56,799
+2020-10-29 3:13:45,Gyu-Kaku Japanese BBQ,"37.782100, -122.403789",Restaurant,17.38,992
+2020-10-29 10:25:51,Lost Resort,"37.7594, -122.4088",Restaurant,42.57,313
+2020-10-29 10:5:50,Lost Resort,"37.7594, -122.4089",Restaurant,10.43,846
+2020-10-28 11:6:7,Lost Resort,"37.7594, -122.4090",Restaurant,21.76,698
+2020-10-28 13:19:35,Lost Resort,"37.7594, -122.4091",Restaurant,11.25,452
+2020-10-30 10:26:29,Lost Resort,"37.7594, -122.4092",Restaurant,32.29,746
+2020-10-30 6:49:41,Lost Resort,"37.7594, -122.4093",Restaurant,28.90,697
+2020-10-31 6:43:14,Lost Resort,"37.7594, -122.4094",Restaurant,37.13,401
+2020-10-28 22:48:14,Lost Resort,"37.7594, -122.4095",Restaurant,56.29,644
+2020-10-29 5:34:10,Lost Resort,"37.7594, -122.4096",Restaurant,17.37,472
+2020-10-31 11:17:24,Lost Resort,"37.7594, -122.4097",Restaurant,51.58,383
+2020-10-28 22:20:1,Lost Resort,"37.7594, -122.4098",Restaurant,28.04,260
+2020-10-28 20:17:25,Lost Resort,"37.7594, -122.4099",Restaurant,50.36,769
+2020-10-30 15:44:53,Lost Resort,"37.7594, -122.4100",Restaurant,5.37,753
+2020-10-28 19:11:46,Lost Resort,"37.7594, -122.4101",Restaurant,10.70,424
+2020-10-30 7:4:38,Lost Resort,"37.7594, -122.4102",Restaurant,5.80,164
+2020-10-28 13:41:38,Lost Resort,"37.7594, -122.4103",Restaurant,46.37,31
+2020-10-29 18:42:7,Lost Resort,"37.7594, -122.4104",Restaurant,44.31,360
+2020-10-29 3:41:43,Lost Resort,"37.7594, -122.4105",Restaurant,24.61,410
+2020-10-29 12:52:30,Lost Resort,"37.7594, -122.4106",Restaurant,5.16,671
+2020-10-29 5:46:18,Lost Resort,"37.7594, -122.4107",Restaurant,1.38,814
+2020-10-29 6:18:20,Lost Resort,"37.7594, -122.4107",Restaurant,24.06,739
+2020-10-31 1:39:13,Cultivar San Francisco,"37.799820, -122.442413",Restaurant,5.63,554
+2020-10-28 15:50:31,Tartine Manufactroy,"37.762030,-122.411600",Restaurant,19.67,273
+2020-10-28 21:56:46,Cultivar San Francisco,"37.799820, -122.442413",Restaurant,57.70,126
+2020-10-28 12:31:51,The Argentum Project,"37.781689, -122.409218",Restaurant,30.04,506
+2020-10-28 11:20:1,Tartine Manufactroy,"37.762030,-122.411600",Restaurant,31.80,911
+2020-10-30 19:30:20,Cultivar San Francisco,"37.799820, -122.442413",Restaurant,3.09,742
+2020-10-29 7:54:31,Mahila,"37.750900, -122.434330",Restaurant,55.40,80
+2020-10-29 15:59:29,Tartine Manufactroy,"37.762030,-122.411600",Restaurant,1.95,963
+2020-10-30 3:5:18,The Bird,"37.787201, -122.400101",Restaurant,6.56,795
+2020-10-30 13:16:47,The Bird,"37.787201, -122.400101",Restaurant,16.13,866
+2020-10-30 19:29:23,Asian American Food Company,"37.742550, -122.488070",Restaurant,24.29,738
+2020-10-30 7:12:18,Authentiko,"37.7767, -122.4025",Restaurant,13.57,431
+2020-10-31 6:59:2,Hog Island Oyster Co,"38.1621, -122.8936",Restaurant,13.00,185
+2020-10-29 21:3:48,Hoshinoya,"37.7862, -122.4297",Restaurant,43.84,453
+2020-10-28 19:41:22,Gyu-Kaku Japanese BBQ,"37.782100, -122.403770",Restaurant,13.74,52
+2020-10-29 8:40:10,Barzotto,"37.7525, -122.4209",Restaurant,55.69,258
+2020-10-29 10:48:4,Lost Resort,"37.7594, -122.4088",Restaurant,34.14,637
+2020-10-31 0:55:12,Dumpling Home,"37.7758, -122.4226",Restaurant,31.64,445
+2020-10-30 1:53:46,Chicken as Cluck,"37.7507, -122.3952",Restaurant,47.62,74
+2020-10-29 23:51:15,Dumpling Time,"37.7697, -122.4024",Restaurant,43.40,293
+2020-10-28 17:33:12,Souvla,"37.7765, -122.4250",Restaurant,54.88,92
+2020-10-31 4:16:42,Kitchen Story,"37.7643, -122.4307",Restaurant,24.58,723
+2020-10-30 16:55:19,Hog Island Oyster Co,"38.1621, -122.8936",Restaurant,8.11,473
+2020-10-30 1:16:14,Hoshinoya,"37.7862, -122.4297",Restaurant,45.36,485
+2020-10-28 10:15:57,Gyu-Kaku Japanese BBQ,"37.782100, -122.403770",Restaurant,39.51,714
+2020-10-28 11:26:31,Barzotto,"37.7862, -122.4297",Restaurant,21.04,345
+2020-10-29 18:58:36,Lost Resort,"37.7594, -122.4088",Restaurant,51.86,380
+2020-10-28 22:25:0,Dumpling Home,"37.7758, -122.4226",Restaurant,14.88,28
+2020-10-29 1:12:43,Chicken as Cluck,"37.7507, -122.3952",Restaurant,40.72,580
+2020-10-31 2:28:36,Dumpling Time,"37.7697, -122.4024",Restaurant,27.90,285
+2020-10-31 2:38:42,Souvla,"37.7765, -122.4250",Restaurant,0.41,853
+2020-10-29 5:26:36,Kitchen Story,"37.7643, -122.4307",Restaurant,48.05,519
+2020-10-29 19:40:45,House of Thai 2,"37.7722, -122.4303",Restaurant,46.03,209
+2020-10-30 23:3:32,Samila Thai Restaurant,"37.7818, -122.4852",Restaurant,9.67,812
+2020-10-30 2:13:53,Cracked & Battered - Marina,"37.8005, -122.4401",Restaurant,10.80,329
+2020-10-29 11:43:1,Limoncello,"37.7875, -122.4237",Restaurant,20.63,878
+2020-10-28 21:46:34,Kokkari Estiatorio,"37.7970, -122.3997",Restaurant,1.20,765
+2020-10-28 23:19:32,Marufuku Ramen SF,"37.782100, -122.403770",Restaurant,50.48,96
+2020-10-29 22:27:38,Aria Korean Street Food,"37.7866, -122.4180",Restaurant,6.80,98
+2020-10-30 12:38:8,Pier Market Seafood Restaurant,"37.8087, -122.4098",Restaurant,19.75,126
+2020-10-29 13:42:10,Beit Rima,"37.7687, -122.4293",Restaurant,21.38,84
+2020-10-30 23:22:13,Hook Fish,"37.7624, -122.5069",Restaurant,32.35,559
+2020-10-31 0:21:30,Alchemist Bar & Lounge,"37.7793, -122.3930",Restaurant,55.02,298
+2020-10-29 8:16:19,Presidio Kebab,"37.7881, -122.4468",Restaurant,38.61,252
+2020-10-31 10:58:58,Hog Island Oyster Co,"38.1621, -122.8936",Restaurant,28.82,835
+2020-10-30 15:11:9,Hog Island Oyster Co,"38.1621, -122.8937",Restaurant,26.77,212
+2020-10-29 20:28:37,Hog Island Oyster Co,"38.1621, -122.8938",Restaurant,42.07,99
+2020-10-29 3:23:33,Hog Island Oyster Co,"38.1621, -122.8939",Restaurant,1.60,898
+2020-10-28 21:50:52,Hog Island Oyster Co,"38.1621, -122.8940",Restaurant,21.12,512
+2020-10-29 7:12:35,Hog Island Oyster Co,"38.1621, -122.8941",Restaurant,34.22,242
+2020-10-28 11:6:57,Hog Island Oyster Co,"38.1621, -122.8942",Restaurant,26.55,831
+2020-10-28 23:33:48,Hog Island Oyster Co,"38.1621, -122.8943",Restaurant,43.07,210
+2020-10-31 11:20:33,Hog Island Oyster Co,"38.1621, -122.8944",Restaurant,32.49,754
+2020-10-29 17:50:46,Hog Island Oyster Co,"38.1621, -122.8945",Restaurant,45.83,220
+2020-10-29 22:11:40,Hog Island Oyster Co,"38.1621, -122.8946",Restaurant,43.35,901
+2020-10-30 7:33:32,Hog Island Oyster Co,"38.1621, -122.8947",Restaurant,17.32,515
+2020-10-30 2:40:35,Hog Island Oyster Co,"38.1621, -122.8948",Restaurant,24.00,207
+2020-10-29 17:44:10,Hog Island Oyster Co,"38.1621, -122.8949",Restaurant,17.50,571
+2020-10-30 19:34:4,Hog Island Oyster Co,"38.1621, -122.8950",Restaurant,34.26,755
+2020-10-31 7:16:45,Hog Island Oyster Co,"38.1621, -122.8951",Restaurant,9.32,339
+2020-10-29 18:43:6,Hog Island Oyster Co,"38.1621, -122.8952",Restaurant,26.61,67
+2020-10-28 19:19:42,Hog Island Oyster Co,"38.1621, -122.8953",Restaurant,2.69,700
+2020-10-30 6:45:48,Hog Island Oyster Co,"38.1621, -122.8954",Restaurant,34.17,411
+2020-10-30 22:30:49,Hog Island Oyster Co,"38.1621, -122.8955",Restaurant,29.51,441
+2020-10-31 3:7:51,Hog Island Oyster Co,"38.1621, -122.8956",Restaurant,27.91,629
+2020-10-28 19:16:28,Hog Island Oyster Co,"38.1621, -122.8957",Restaurant,42.53,135
+2020-10-31 3:34:51,Hog Island Oyster Co,"38.1621, -122.8958",Restaurant,51.20,42
+2020-10-29 16:16:58,Hog Island Oyster Co,"38.1621, -122.8959",Restaurant,32.14,232
+2020-10-31 4:11:58,Hog Island Oyster Co,"38.1621, -122.8960",Restaurant,14.88,455
+2020-10-30 21:8:53,Hog Island Oyster Co,"38.1621, -122.8961",Restaurant,20.62,612
+2020-10-29 13:3:45,Hog Island Oyster Co,"38.1621, -122.8962",Restaurant,23.91,315
+2020-10-30 15:10:26,Hog Island Oyster Co,"38.1621, -122.8963",Restaurant,51.43,978
+2020-10-28 15:34:30,Hog Island Oyster Co,"38.1621, -122.8964",Restaurant,27.57,91
+2020-10-28 20:53:35,Hog Island Oyster Co,"38.1621, -122.8965",Restaurant,25.95,522
+2020-10-28 19:30:19,Hog Island Oyster Co,"38.1621, -122.8966",Restaurant,18.44,249
+2020-10-31 11:20:37,The Bird,"37.787201, -122.400101",Restaurant,2.19,435
+2020-10-29 17:8:30,The Bird,"37.787201, -122.400102",Restaurant,56.27,927
+2020-10-30 14:2:33,The Bird,"37.787201, -122.400103",Restaurant,51.62,83
+2020-10-29 1:54:14,The Bird,"37.787201, -122.400104",Restaurant,7.33,419
+2020-10-30 3:41:22,The Bird,"37.787201, -122.400105",Restaurant,39.82,530
+2020-10-29 9:57:6,The Bird,"37.787201, -122.400106",Restaurant,10.57,678
+2020-10-28 23:19:15,The Bird,"37.787201, -122.400107",Restaurant,24.42,437
+2020-10-29 14:17:36,The Bird,"37.787201, -122.400108",Restaurant,35.88,783
+2020-10-31 6:2:50,The Bird,"37.787201, -122.400109",Restaurant,40.97,878
+2020-10-30 19:22:8,The Bird,"37.787201, -122.400110",Restaurant,1.14,877
+2020-10-30 14:49:57,The Bird,"37.787201, -122.400111",Restaurant,2.18,772
+2020-10-28 21:55:37,The Bird,"37.787201, -122.400112",Restaurant,6.86,4
+2020-10-30 15:51:44,The Bird,"37.787201, -122.400113",Restaurant,0.65,926
+2020-10-31 8:35:39,The Bird,"37.787201, -122.400114",Restaurant,54.98,628
+2020-10-31 7:43:6,The Bird,"37.787201, -122.400115",Restaurant,43.16,477
+2020-10-29 7:36:52,The Bird,"37.787201, -122.400116",Restaurant,38.22,211
+2020-10-30 6:4:25,The Bird,"37.787201, -122.400117",Restaurant,7.79,676
+2020-10-28 17:19:32,The Bird,"37.787201, -122.400118",Restaurant,49.92,250
+2020-10-29 4:33:44,The Bird,"37.787201, -122.400119",Restaurant,55.21,129
+2020-10-29 10:8:20,The Bird,"37.787201, -122.400120",Restaurant,28.95,861
+2020-10-30 11:1:58,The Bird,"37.787201, -122.400121",Restaurant,50.15,403
+2020-10-29 16:4:8,The Bird,"37.787201, -122.400122",Restaurant,21.61,982
+2020-10-28 19:12:29,The Bird,"37.787201, -122.400123",Restaurant,48.24,727
+2020-10-28 23:13:32,The Bird,"37.787201, -122.400124",Restaurant,59.24,301
+2020-10-28 11:8:2,Dumpling Home,"37.787201, -122.400125",Restaurant,1.98,524
+2020-10-31 8:17:40,Dumpling Home,"37.787201, -122.400126",Restaurant,33.68,816
+2020-10-30 14:3:50,Dumpling Home,"37.787201, -122.400127",Restaurant,58.26,199
+2020-10-29 15:23:19,Dumpling Home,"37.787201, -122.400128",Restaurant,50.72,445
+2020-10-28 10:51:7,Dumpling Home,"37.787201, -122.400129",Restaurant,57.04,449
+2020-10-29 0:4:10,Dumpling Home,"37.787201, -122.400130",Restaurant,25.73,37
+2020-10-31 1:29:41,Dumpling Home,"37.787201, -122.400131",Restaurant,0.73,30
+2020-10-28 15:37:39,Dumpling Home,"37.787201, -122.400132",Restaurant,6.25,111
+2020-10-29 19:51:56,Dumpling Home,"37.787201, -122.400133",Restaurant,31.98,779
+2020-10-29 23:54:1,Dumpling Home,"37.787201, -122.400134",Restaurant,59.17,738
+2020-10-30 20:3:35,Dumpling Home,"37.787201, -122.400135",Restaurant,6.79,285
+2020-10-29 21:51:3,Dumpling Home,"37.787201, -122.400136",Restaurant,52.15,408
+2020-10-28 17:43:6,Dumpling Home,"37.787201, -122.400137",Restaurant,6.21,248
+2020-10-28 12:51:12,Dumpling Home,"37.787201, -122.400138",Restaurant,26.78,844
+2020-10-30 6:20:39,Dumpling Home,"37.787201, -122.400139",Restaurant,42.64,543
+2020-10-30 11:46:35,Dumpling Home,"37.787201, -122.400140",Restaurant,21.29,633
+2020-10-29 5:25:45,Dumpling Home,"37.787201, -122.400141",Restaurant,21.87,229
+2020-10-28 13:38:43,Dumpling Home,"37.787201, -122.400142",Restaurant,51.14,946
+2020-10-30 4:8:52,Dumpling Home,"37.787201, -122.400143",Restaurant,34.91,144
+2020-10-31 2:12:31,Dumpling Home,"37.787201, -122.400144",Restaurant,32.19,213
+2020-10-30 1:59:43,Dumpling Home,"37.787201, -122.400145",Restaurant,3.22,426
+2020-10-30 3:3:36,Dumpling Home,"37.787201, -122.400146",Restaurant,3.68,898
+2020-10-29 17:20:45,Dumpling Home,"37.787201, -122.400147",Restaurant,5.48,835
+2020-10-28 9:11:27,Dumpling Home,"37.787201, -122.400148",Restaurant,45.81,949
+2020-10-30 2:1:37,Dumpling Home,"37.787201, -122.400149",Restaurant,19.51,309
+2020-10-29 20:5:14,Dumpling Home,"37.787201, -122.400150",Restaurant,54.75,47
+2020-10-30 23:48:40,Dumpling Home,"37.787201, -122.400151",Restaurant,20.21,209
+2020-10-30 14:55:22,Dumpling Home,"37.787201, -122.400152",Restaurant,19.11,336
+2020-10-31 6:16:33,Dumpling Home,"37.787201, -122.400153",Restaurant,32.98,756
+2020-10-30 6:31:1,Dumpling Home,"37.787201, -122.400154",Restaurant,56.70,992
+2020-10-30 17:19:3,Dumpling Home,"37.787201, -122.400155",Restaurant,16.64,621
+2020-10-30 21:40:51,Dumpling Home,"37.787201, -122.400156",Restaurant,51.32,117
+2020-10-28 12:28:43,Dumpling Home,"37.787201, -122.400157",Restaurant,20.16,47
+2020-10-31 11:44:35,Dumpling Home,"37.787201, -122.400158",Restaurant,57.61,613
+2020-10-29 10:41:5,Dumpling Home,"37.787201, -122.400159",Restaurant,46.36,208
+2020-10-31 11:17:4,Dumpling Home,"37.787201, -122.400160",Restaurant,22.49,740
+2020-10-29 18:52:5,Dumpling Home,"37.787201, -122.400161",Restaurant,38.41,880
+2020-10-30 9:30:14,Dumpling Home,"37.787201, -122.400162",Restaurant,14.69,498
+2020-10-30 13:56:23,Dumpling Home,"37.787201, -122.400163",Restaurant,10.28,669
+2020-10-30 3:32:20,Dumpling Home,"37.787201, -122.400164",Restaurant,14.93,435
+2020-10-29 17:9:57,Dumpling Home,"37.787201, -122.400165",Restaurant,26.62,679
+2020-10-30 15:44:51,Dumpling Home,"37.787201, -122.400166",Restaurant,45.76,493
+2020-10-29 18:15:57,Dumpling Home,"37.787201, -122.400167",Restaurant,17.82,836
+2020-10-30 4:26:12,Dumpling Home,"37.787201, -122.400168",Restaurant,2.68,33
+2020-10-30 2:46:18,Dumpling Home,"37.787201, -122.400169",Restaurant,58.05,867
+2020-10-31 10:45:15,Dumpling Home,"37.787201, -122.400170",Restaurant,37.66,447
+2020-10-30 13:52:49,Dumpling Home,"37.787201, -122.400171",Restaurant,3.20,284
+2020-10-28 13:49:32,Dumpling Home,"37.787201, -122.400172",Restaurant,59.71,629
+2020-10-28 17:20:46,Dumpling Home,"37.787201, -122.400173",Restaurant,43.94,735
+2020-10-31 4:27:47,Dumpling Home,"37.787201, -122.400174",Restaurant,36.31,342
+2020-10-30 18:5:57,Dumpling Home,"37.787201, -122.400175",Restaurant,13.79,668
+2020-10-30 1:46:28,Dumpling Home,"37.787201, -122.400176",Restaurant,13.04,638
+2020-10-30 14:52:9,Dumpling Home,"37.787201, -122.400177",Restaurant,38.25,806
+2020-10-31 9:0:32,Dumpling Home,"37.787201, -122.400178",Restaurant,39.86,985
+2020-10-31 1:18:51,Dumpling Home,"37.787201, -122.400179",Restaurant,51.17,281
+2020-10-29 9:38:12,Dumpling Home,"37.787201, -122.400180",Restaurant,51.92,278
+2020-10-29 14:41:0,Dumpling Home,"37.787201, -122.400181",Restaurant,13.35,312
+2020-10-30 0:51:9,Dumpling Home,"37.787201, -122.400182",Restaurant,47.15,651
+2020-10-30 12:56:51,Dumpling Home,"37.787201, -122.400183",Restaurant,18.12,945
+2020-10-30 6:44:11,Dumpling Home,"37.787201, -122.400184",Restaurant,22.45,568
+2020-10-30 9:43:34,Cultivar San Francisco,"37.799820, -122.442413",Restaurant,2.80,484
+2020-10-31 0:11:50,Cultivar San Francisco,"37.799820, -122.442414",Restaurant,11.80,923
+2020-10-28 16:9:35,Cultivar San Francisco,"37.799820, -122.442415",Restaurant,5.03,927
+2020-10-31 9:14:43,Cultivar San Francisco,"37.799820, -122.442416",Restaurant,38.55,354
+2020-10-30 19:34:41,Cultivar San Francisco,"37.799820, -122.442417",Restaurant,13.98,995
+2020-10-30 8:30:6,Cultivar San Francisco,"37.799820, -122.442418",Restaurant,11.35,51
+2020-10-31 10:56:4,Cultivar San Francisco,"37.799820, -122.442419",Restaurant,42.52,317
+2020-10-28 10:32:10,Cultivar San Francisco,"37.799820, -122.442420",Restaurant,18.39,125
+2020-10-29 19:39:55,Cultivar San Francisco,"37.799820, -122.442421",Restaurant,19.86,809
+2020-10-29 6:39:15,Cultivar San Francisco,"37.799820, -122.442422",Restaurant,29.92,774
+2020-10-28 15:15:24,Cultivar San Francisco,"37.799820, -122.442423",Restaurant,51.42,105
+2020-10-28 19:42:50,Cultivar San Francisco,"37.799820, -122.442424",Restaurant,46.89,981
+2020-10-29 22:6:9,Cultivar San Francisco,"37.799820, -122.442425",Restaurant,27.68,316
+2020-10-29 21:11:25,Cultivar San Francisco,"37.799820, -122.442426",Restaurant,46.59,962
+2020-10-30 9:50:3,Cultivar San Francisco,"37.799820, -122.442427",Restaurant,29.49,616
+2020-10-28 16:40:25,Cultivar San Francisco,"37.799820, -122.442428",Restaurant,16.08,730
+2020-10-29 7:51:59,Cultivar San Francisco,"37.799820, -122.442429",Restaurant,38.45,201
+2020-10-28 17:18:39,Cultivar San Francisco,"37.799820, -122.442430",Restaurant,44.67,653
+2020-10-30 3:29:43,Cultivar San Francisco,"37.799820, -122.442431",Restaurant,23.98,517
+2020-10-30 1:5:0,Cultivar San Francisco,"37.799820, -122.442432",Restaurant,21.95,449
+2020-10-31 11:35:8,Cultivar San Francisco,"37.799820, -122.442433",Restaurant,23.60,471
+2020-10-28 18:31:46,Cultivar San Francisco,"37.799820, -122.442434",Restaurant,30.74,256
+2020-10-29 11:37:43,Cultivar San Francisco,"37.799820, -122.442435",Restaurant,20.64,665
+2020-10-28 9:1:47,Cultivar San Francisco,"37.799820, -122.442436",Restaurant,38.79,900
+2020-10-30 5:37:1,Cultivar San Francisco,"37.799820, -122.442437",Restaurant,6.44,485
+2020-10-30 7:55:46,Cultivar San Francisco,"37.799820, -122.442438",Restaurant,44.00,389
+2020-10-28 20:30:34,Cultivar San Francisco,"37.799820, -122.442439",Restaurant,50.73,762
+2020-10-28 13:20:34,Cultivar San Francisco,"37.799820, -122.442440",Restaurant,35.71,136
+2020-10-29 13:43:10,Cultivar San Francisco,"37.799820, -122.442441",Restaurant,14.65,551
+2020-10-29 10:44:9,Cultivar San Francisco,"37.799820, -122.442442",Restaurant,45.64,402
+2020-10-30 10:29:27,Cultivar San Francisco,"37.799820, -122.442443",Restaurant,33.26,214
+2020-10-29 2:52:12,Cultivar San Francisco,"37.799820, -122.442444",Restaurant,16.97,803
+2020-10-29 8:13:44,Cultivar San Francisco,"37.799820, -122.442445",Restaurant,26.47,34
+2020-10-29 3:11:8,Cultivar San Francisco,"37.799820, -122.442446",Restaurant,25.65,622
+2020-10-30 14:4:19,Cultivar San Francisco,"37.799820, -122.442447",Restaurant,40.73,672
+2020-10-28 21:2:29,Cultivar San Francisco,"37.799820, -122.442448",Restaurant,56.28,263
+2020-10-30 12:17:13,Cultivar San Francisco,"37.799820, -122.442449",Restaurant,35.66,658
+2020-10-29 9:6:57,Cultivar San Francisco,"37.799820, -122.442450",Restaurant,9.11,441
+2020-10-29 10:44:0,Cultivar San Francisco,"37.799820, -122.442451",Restaurant,51.98,836
+2020-10-28 12:45:12,Cultivar San Francisco,"37.799820, -122.442452",Restaurant,22.63,34
+2020-10-28 11:51:22,Cultivar San Francisco,"37.799820, -122.442453",Restaurant,3.21,37
+2020-10-30 13:31:44,Cultivar San Francisco,"37.799820, -122.442454",Restaurant,14.16,692
+2020-10-28 10:59:54,Cultivar San Francisco,"37.799820, -122.442455",Restaurant,43.96,641
+2020-10-29 21:1:51,Cultivar San Francisco,"37.799820, -122.442456",Restaurant,25.32,87
+2020-10-28 17:48:5,Cultivar San Francisco,"37.799820, -122.442457",Restaurant,6.97,839
+2020-10-29 4:5:25,Cultivar San Francisco,"37.799820, -122.442458",Restaurant,23.57,755
+2020-10-30 1:58:14,Cultivar San Francisco,"37.799820, -122.442459",Restaurant,39.68,572
+2020-10-31 1:19:29,Cultivar San Francisco,"37.799820, -122.442460",Restaurant,24.40,813
+2020-10-29 2:59:20,Cultivar San Francisco,"37.799820, -122.442461",Restaurant,12.25,470
+2020-10-29 5:45:28,Cultivar San Francisco,"37.799820, -122.442462",Restaurant,55.20,806
+2020-10-30 16:44:56,Gyu-Kaku Japanese BBQ,"37.782100, -122.403770",Restaurant,50.39,843
+2020-10-29 3:54:6,Gyu-Kaku Japanese BBQ,"37.782100, -122.403771",Restaurant,50.01,263
+2020-10-30 20:14:54,Gyu-Kaku Japanese BBQ,"37.782100, -122.403772",Restaurant,18.52,178
+2020-10-30 19:15:32,Gyu-Kaku Japanese BBQ,"37.782100, -122.403773",Restaurant,24.31,228
+2020-10-29 4:39:30,Gyu-Kaku Japanese BBQ,"37.782100, -122.403774",Restaurant,7.43,558
+2020-10-30 6:15:33,Gyu-Kaku Japanese BBQ,"37.782100, -122.403775",Restaurant,31.51,125
+2020-10-29 18:7:35,Gyu-Kaku Japanese BBQ,"37.782100, -122.403776",Restaurant,22.10,782
+2020-10-29 20:16:48,Gyu-Kaku Japanese BBQ,"37.782100, -122.403777",Restaurant,4.42,219
+2020-10-29 20:29:25,Gyu-Kaku Japanese BBQ,"37.782100, -122.403778",Restaurant,17.48,904
+2020-10-30 15:51:54,Gyu-Kaku Japanese BBQ,"37.782100, -122.403779",Restaurant,32.45,505
+2020-10-30 7:50:53,Gyu-Kaku Japanese BBQ,"37.782100, -122.403780",Restaurant,27.11,921
+2020-10-29 3:11:7,Gyu-Kaku Japanese BBQ,"37.782100, -122.403781",Restaurant,9.03,369
+2020-10-30 17:45:28,Gyu-Kaku Japanese BBQ,"37.782100, -122.403782",Restaurant,51.17,879
+2020-10-31 1:57:32,Gyu-Kaku Japanese BBQ,"37.782100, -122.403783",Restaurant,56.68,169
+2020-10-31 6:0:54,Gyu-Kaku Japanese BBQ,"37.782100, -122.403784",Restaurant,22.50,432
+2020-10-31 11:9:54,Gyu-Kaku Japanese BBQ,"37.782100, -122.403785",Restaurant,36.91,897
+2020-10-29 10:44:24,Gyu-Kaku Japanese BBQ,"37.782100, -122.403786",Restaurant,24.51,874
+2020-10-29 12:29:49,Gyu-Kaku Japanese BBQ,"37.782100, -122.403787",Restaurant,55.22,813
+2020-10-29 12:44:14,Gyu-Kaku Japanese BBQ,"37.782100, -122.403788",Restaurant,54.19,222
+2020-10-29 7:13:59,Gyu-Kaku Japanese BBQ,"37.782100, -122.403789",Restaurant,26.08,724
+2020-10-30 11:46:18,Lost Resort,"37.7594, -122.4088",Restaurant,58.03,360
+2020-10-30 18:56:51,Lost Resort,"37.7594, -122.4089",Restaurant,4.19,280
+2020-10-29 19:23:1,Lost Resort,"37.7594, -122.4090",Restaurant,56.71,840
+2020-10-28 22:29:44,Lost Resort,"37.7594, -122.4091",Restaurant,12.53,608
+2020-10-31 5:54:48,Lost Resort,"37.7594, -122.4092",Restaurant,11.01,303
+2020-10-29 22:23:47,Lost Resort,"37.7594, -122.4093",Restaurant,15.89,859
+2020-10-28 10:40:7,Lost Resort,"37.7594, -122.4094",Restaurant,30.83,346
+2020-10-31 1:21:14,Lost Resort,"37.7594, -122.4095",Restaurant,52.60,672
+2020-10-28 10:6:28,Lost Resort,"37.7594, -122.4096",Restaurant,14.28,361
+2020-10-28 10:15:13,Lost Resort,"37.7594, -122.4097",Restaurant,2.01,642
+2020-10-30 8:57:52,Lost Resort,"37.7594, -122.4098",Restaurant,25.94,46
+2020-10-28 15:2:53,Lost Resort,"37.7594, -122.4099",Restaurant,25.65,124
+2020-10-30 13:37:25,Lost Resort,"37.7594, -122.4100",Restaurant,42.17,58
+2020-10-31 9:58:34,Lost Resort,"37.7594, -122.4101",Restaurant,17.77,995
+2020-10-28 11:20:40,Lost Resort,"37.7594, -122.4102",Restaurant,50.26,143
+2020-10-31 2:22:6,Lost Resort,"37.7594, -122.4103",Restaurant,41.66,961
+2020-10-31 6:5:41,Lost Resort,"37.7594, -122.4104",Restaurant,57.70,134
+2020-10-30 5:55:17,Lost Resort,"37.7594, -122.4105",Restaurant,10.30,914
+2020-10-30 12:1:8,Lost Resort,"37.7594, -122.4106",Restaurant,10.18,684
+2020-10-30 19:35:26,Lost Resort,"37.7594, -122.4107",Restaurant,53.61,800
+2020-10-29 3:43:8,Lost Resort,"37.7594, -122.4107",Restaurant,54.71,528
+2020-10-31 9:38:34,Cultivar San Francisco,"37.799820, -122.442413",Restaurant,52.59,241
+2020-10-29 11:11:6,Tartine Manufactroy,"37.762030,-122.411600",Restaurant,12.25,636
+2020-10-31 2:47:23,Cultivar San Francisco,"37.799820, -122.442413",Restaurant,0.07,90
+2020-10-30 20:37:40,The Argentum Project,"37.781689, -122.409218",Restaurant,40.70,380
+2020-10-29 14:42:54,Tartine Manufactroy,"37.762030,-122.411600",Restaurant,22.03,789
+2020-10-30 16:19:24,Cultivar San Francisco,"37.799820, -122.442413",Restaurant,21.19,276
+2020-10-30 5:48:22,Mahila,"37.750900, -122.434330",Restaurant,43.70,482
+2020-10-31 0:24:28,Tartine Manufactroy,"37.762030,-122.411600",Restaurant,35.36,883
+2020-10-29 6:6:51,The Bird,"37.787201, -122.400101",Restaurant,3.10,191
+2020-10-30 13:10:37,The Bird,"37.787201, -122.400101",Restaurant,34.96,837
+2020-10-29 17:16:9,Asian American Food Company,"37.742550, -122.488070",Restaurant,47.80,176
+2020-10-30 2:24:0,Authentiko,"37.7767, -122.4025",Restaurant,46.24,427
+2020-10-30 16:27:27,Hog Island Oyster Co,"38.1621, -122.8936",Restaurant,57.47,263
+2020-10-31 10:32:54,Hoshinoya,"37.7862, -122.4297",Restaurant,29.19,294
+2020-10-29 5:2:42,Gyu-Kaku Japanese BBQ,"37.782100, -122.403770",Restaurant,4.07,907
+2020-10-28 10:47:10,Barzotto,"37.7525, -122.4209",Restaurant,25.23,383
+2020-10-30 10:24:43,Lost Resort,"37.7594, -122.4088",Restaurant,42.62,725
+2020-10-29 8:6:1,Dumpling Home,"37.7758, -122.4226",Restaurant,23.54,381
+2020-10-30 2:42:59,Chicken as Cluck,"37.7507, -122.3952",Restaurant,36.05,127
+2020-10-30 22:15:49,Dumpling Time,"37.7697, -122.4024",Restaurant,20.47,465
+2020-10-30 1:6:4,Souvla,"37.7765, -122.4250",Restaurant,19.53,904
+2020-10-30 5:33:36,Kitchen Story,"37.7643, -122.4307",Restaurant,10.16,458
+2020-10-30 1:33:0,Hog Island Oyster Co,"38.1621, -122.8936",Restaurant,57.38,664
+2020-10-31 9:30:29,Hoshinoya,"37.7862, -122.4297",Restaurant,57.55,636
+2020-10-30 6:40:49,Gyu-Kaku Japanese BBQ,"37.782100, -122.403770",Restaurant,1.59,714
+2020-10-29 10:42:49,Barzotto,"37.7862, -122.4297",Restaurant,7.82,828
+2020-10-31 7:43:31,Lost Resort,"37.7594, -122.4088",Restaurant,3.14,819
+2020-10-29 1:33:54,Dumpling Home,"37.7758, -122.4226",Restaurant,13.90,816
+2020-10-29 11:41:15,Chicken as Cluck,"37.7507, -122.3952",Restaurant,42.02,592
+2020-10-29 5:29:44,Dumpling Time,"37.7697, -122.4024",Restaurant,28.42,966
+2020-10-29 7:8:54,Souvla,"37.7765, -122.4250",Restaurant,2.80,133
+2020-10-31 3:47:23,Kitchen Story,"37.7643, -122.4307",Restaurant,34.71,564
+2020-10-30 4:0:50,House of Thai 2,"37.7722, -122.4303",Restaurant,33.43,202
+2020-10-29 4:39:19,Samila Thai Restaurant,"37.7818, -122.4852",Restaurant,14.54,467
+2020-10-28 21:25:59,Cracked & Battered - Marina,"37.8005, -122.4401",Restaurant,15.51,666
+2020-10-29 15:13:17,Limoncello,"37.7875, -122.4237",Restaurant,15.55,486
+2020-10-29 19:58:17,Kokkari Estiatorio,"37.7970, -122.3997",Restaurant,52.83,704
+2020-10-30 8:50:35,Marufuku Ramen SF,"37.782100, -122.403770",Restaurant,22.96,350
+2020-10-30 7:23:12,Aria Korean Street Food,"37.7866, -122.4180",Restaurant,51.13,767
+2020-10-29 9:18:55,Pier Market Seafood Restaurant,"37.8087, -122.4098",Restaurant,30.56,311
+2020-10-29 21:3:45,Beit Rima,"37.7687, -122.4293",Restaurant,17.16,361
+2020-10-30 8:12:5,Hook Fish,"37.7624, -122.5069",Restaurant,41.31,520
+2020-10-29 12:8:56,Alchemist Bar & Lounge,"37.7793, -122.3930",Restaurant,23.39,103
+2020-10-30 5:56:28,Presidio Kebab,"37.7881, -122.4468",Restaurant,53.52,534
+2020-10-29 10:26:16,Hog Island Oyster Co,"38.1621, -122.8936",Restaurant,44.35,218
+2020-10-30 23:19:43,Hog Island Oyster Co,"38.1621, -122.8937",Restaurant,22.02,951
+2020-10-28 23:42:57,Hog Island Oyster Co,"38.1621, -122.8938",Restaurant,23.23,948
+2020-10-30 5:36:37,Hog Island Oyster Co,"38.1621, -122.8939",Restaurant,44.44,736
+2020-10-28 19:54:40,Hog Island Oyster Co,"38.1621, -122.8940",Restaurant,31.50,935
+2020-10-31 3:40:26,Hog Island Oyster Co,"38.1621, -122.8941",Restaurant,33.08,676
+2020-10-31 10:18:5,Hog Island Oyster Co,"38.1621, -122.8942",Restaurant,59.50,810
+2020-10-31 5:15:32,Hog Island Oyster Co,"38.1621, -122.8943",Restaurant,11.93,946
+2020-10-30 23:59:20,Hog Island Oyster Co,"38.1621, -122.8944",Restaurant,46.98,169
+2020-10-29 15:28:16,Hog Island Oyster Co,"38.1621, -122.8945",Restaurant,42.97,22
+2020-10-28 16:21:24,Hog Island Oyster Co,"38.1621, -122.8946",Restaurant,50.57,532
+2020-10-29 23:0:56,Hog Island Oyster Co,"38.1621, -122.8947",Restaurant,0.22,63
+2020-10-30 20:52:29,Hog Island Oyster Co,"38.1621, -122.8948",Restaurant,36.00,989
+2020-10-30 10:5:43,Hog Island Oyster Co,"38.1621, -122.8949",Restaurant,21.27,792
+2020-10-31 1:32:8,Hog Island Oyster Co,"38.1621, -122.8950",Restaurant,8.04,54
+2020-10-31 2:29:45,Hog Island Oyster Co,"38.1621, -122.8951",Restaurant,55.00,442
+2020-10-29 22:40:0,Hog Island Oyster Co,"38.1621, -122.8952",Restaurant,8.00,699
+2020-10-30 3:54:32,Hog Island Oyster Co,"38.1621, -122.8953",Restaurant,10.17,867
+2020-10-28 19:15:58,Hog Island Oyster Co,"38.1621, -122.8954",Restaurant,36.49,35
+2020-10-30 0:28:57,Hog Island Oyster Co,"38.1621, -122.8955",Restaurant,5.50,948
+2020-10-30 3:6:0,Hog Island Oyster Co,"38.1621, -122.8956",Restaurant,15.59,675
+2020-10-28 22:39:45,Hog Island Oyster Co,"38.1621, -122.8957",Restaurant,11.16,407
+2020-10-28 9:13:52,Hog Island Oyster Co,"38.1621, -122.8958",Restaurant,25.95,661
+2020-10-30 1:1:44,Hog Island Oyster Co,"38.1621, -122.8959",Restaurant,13.86,129
+2020-10-30 1:3:55,Hog Island Oyster Co,"38.1621, -122.8960",Restaurant,47.78,653
+2020-10-30 19:8:25,Hog Island Oyster Co,"38.1621, -122.8961",Restaurant,43.25,205
+2020-10-28 10:19:33,Hog Island Oyster Co,"38.1621, -122.8962",Restaurant,5.71,342
+2020-10-30 5:12:56,Hog Island Oyster Co,"38.1621, -122.8963",Restaurant,45.02,761
+2020-10-31 7:28:3,Hog Island Oyster Co,"38.1621, -122.8964",Restaurant,13.67,91
+2020-10-29 20:42:10,Hog Island Oyster Co,"38.1621, -122.8965",Restaurant,16.53,52
+2020-10-29 12:45:20,Hog Island Oyster Co,"38.1621, -122.8966",Restaurant,25.60,879
+2020-10-29 12:16:20,The Bird,"37.787201, -122.400101",Restaurant,37.31,932
+2020-10-29 4:58:3,The Bird,"37.787201, -122.400102",Restaurant,45.44,621
+2020-10-30 4:41:34,The Bird,"37.787201, -122.400103",Restaurant,21.67,853
+2020-10-30 2:42:49,The Bird,"37.787201, -122.400104",Restaurant,37.32,365
+2020-10-31 6:59:11,The Bird,"37.787201, -122.400105",Restaurant,51.42,256
+2020-10-31 7:13:36,The Bird,"37.787201, -122.400106",Restaurant,20.80,319
+2020-10-28 12:9:8,The Bird,"37.787201, -122.400107",Restaurant,41.79,734
+2020-10-30 12:3:22,The Bird,"37.787201, -122.400108",Restaurant,46.70,243
+2020-10-29 13:2:45,The Bird,"37.787201, -122.400109",Restaurant,20.71,55
+2020-10-29 2:27:32,The Bird,"37.787201, -122.400110",Restaurant,56.61,534
+2020-10-29 4:34:52,The Bird,"37.787201, -122.400111",Restaurant,10.82,427
+2020-10-30 15:46:44,The Bird,"37.787201, -122.400112",Restaurant,53.86,349
+2020-10-31 7:41:48,The Bird,"37.787201, -122.400113",Restaurant,6.66,375
+2020-10-29 7:42:5,The Bird,"37.787201, -122.400114",Restaurant,35.75,531
+2020-10-30 11:44:5,The Bird,"37.787201, -122.400115",Restaurant,2.64,951
+2020-10-29 21:36:32,The Bird,"37.787201, -122.400116",Restaurant,19.09,437
+2020-10-30 20:31:28,The Bird,"37.787201, -122.400117",Restaurant,10.29,638
+2020-10-29 10:42:39,The Bird,"37.787201, -122.400118",Restaurant,49.44,913
+2020-10-29 16:56:51,The Bird,"37.787201, -122.400119",Restaurant,42.97,470
+2020-10-29 13:35:49,The Bird,"37.787201, -122.400120",Restaurant,7.29,598
+2020-10-28 23:55:20,The Bird,"37.787201, -122.400121",Restaurant,37.76,481
+2020-10-30 22:28:37,The Bird,"37.787201, -122.400122",Restaurant,45.35,973
+2020-10-29 8:57:0,The Bird,"37.787201, -122.400123",Restaurant,49.96,13
+2020-10-28 18:56:38,The Bird,"37.787201, -122.400124",Restaurant,10.11,614
+2020-10-29 6:14:46,Dumpling Home,"37.787201, -122.400125",Restaurant,48.41,510
+2020-10-29 4:9:3,Dumpling Home,"37.787201, -122.400126",Restaurant,57.94,232
+2020-10-29 1:33:43,Dumpling Home,"37.787201, -122.400127",Restaurant,10.44,591
+2020-10-28 14:23:34,Dumpling Home,"37.787201, -122.400128",Restaurant,46.45,593
+2020-10-28 9:13:40,Dumpling Home,"37.787201, -122.400129",Restaurant,4.45,604
+2020-10-29 2:40:20,Dumpling Home,"37.787201, -122.400130",Restaurant,39.78,213
+2020-10-29 6:14:55,Dumpling Home,"37.787201, -122.400131",Restaurant,4.57,284
+2020-10-28 14:42:47,Dumpling Home,"37.787201, -122.400132",Restaurant,16.04,117
+2020-10-29 18:56:55,Dumpling Home,"37.787201, -122.400133",Restaurant,41.57,833
+2020-10-28 16:50:22,Dumpling Home,"37.787201, -122.400134",Restaurant,17.09,582
+2020-10-28 22:58:48,Dumpling Home,"37.787201, -122.400135",Restaurant,41.21,205
+2020-10-29 5:37:3,Dumpling Home,"37.787201, -122.400136",Restaurant,42.75,846
+2020-10-30 2:13:20,Dumpling Home,"37.787201, -122.400137",Restaurant,41.39,287
+2020-10-29 23:47:48,Dumpling Home,"37.787201, -122.400138",Restaurant,15.70,682
+2020-10-30 20:17:33,Dumpling Home,"37.787201, -122.400139",Restaurant,58.00,566
+2020-10-28 11:57:40,Dumpling Home,"37.787201, -122.400140",Restaurant,33.14,430
+2020-10-30 10:30:25,Dumpling Home,"37.787201, -122.400141",Restaurant,54.18,15
+2020-10-28 23:36:46,Dumpling Home,"37.787201, -122.400142",Restaurant,50.92,81
+2020-10-30 4:30:23,Dumpling Home,"37.787201, -122.400143",Restaurant,13.87,912
+2020-10-31 9:14:3,Dumpling Home,"37.787201, -122.400144",Restaurant,7.36,567
+2020-10-28 9:18:19,Dumpling Home,"37.787201, -122.400145",Restaurant,33.04,929
+2020-10-30 9:26:17,Dumpling Home,"37.787201, -122.400146",Restaurant,8.74,593
+2020-10-30 6:35:10,Dumpling Home,"37.787201, -122.400147",Restaurant,32.34,570
+2020-10-31 10:59:4,Dumpling Home,"37.787201, -122.400148",Restaurant,40.82,238
+2020-10-28 20:4:34,Dumpling Home,"37.787201, -122.400149",Restaurant,11.44,251
+2020-10-29 0:19:20,Dumpling Home,"37.787201, -122.400150",Restaurant,48.04,328
+2020-10-28 19:37:11,Dumpling Home,"37.787201, -122.400151",Restaurant,29.90,497
+2020-10-29 23:56:32,Dumpling Home,"37.787201, -122.400152",Restaurant,8.09,751
+2020-10-30 2:54:22,Dumpling Home,"37.787201, -122.400153",Restaurant,19.16,157
+2020-10-30 0:4:49,Dumpling Home,"37.787201, -122.400154",Restaurant,0.01,212
+2020-10-29 16:29:56,Dumpling Home,"37.787201, -122.400155",Restaurant,33.69,544
+2020-10-29 1:10:13,Dumpling Home,"37.787201, -122.400156",Restaurant,56.30,645
+2020-10-28 22:8:10,Dumpling Home,"37.787201, -122.400157",Restaurant,27.06,121
+2020-10-28 14:51:33,Dumpling Home,"37.787201, -122.400158",Restaurant,21.83,926
+2020-10-29 12:47:59,Dumpling Home,"37.787201, -122.400159",Restaurant,57.42,777
+2020-10-30 18:24:37,Dumpling Home,"37.787201, -122.400160",Restaurant,14.51,552
+2020-10-29 7:14:38,Dumpling Home,"37.787201, -122.400161",Restaurant,15.87,419
+2020-10-30 7:6:54,Dumpling Home,"37.787201, -122.400162",Restaurant,17.27,120
+2020-10-28 9:8:2,Dumpling Home,"37.787201, -122.400163",Restaurant,9.71,339
+2020-10-30 4:44:41,Dumpling Home,"37.787201, -122.400164",Restaurant,22.54,283
+2020-10-30 11:15:36,Dumpling Home,"37.787201, -122.400165",Restaurant,45.90,269
+2020-10-31 10:40:55,Dumpling Home,"37.787201, -122.400166",Restaurant,49.04,432
+2020-10-30 4:0:32,Dumpling Home,"37.787201, -122.400167",Restaurant,55.95,100
+2020-10-31 1:21:50,Dumpling Home,"37.787201, -122.400168",Restaurant,53.22,576
+2020-10-30 7:49:31,Dumpling Home,"37.787201, -122.400169",Restaurant,57.44,692
+2020-10-28 9:59:52,Dumpling Home,"37.787201, -122.400170",Restaurant,38.20,591
+2020-10-30 13:1:43,Dumpling Home,"37.787201, -122.400171",Restaurant,29.08,272
+2020-10-28 19:33:45,Dumpling Home,"37.787201, -122.400172",Restaurant,25.95,817
+2020-10-30 17:6:40,Dumpling Home,"37.787201, -122.400173",Restaurant,29.41,16
+2020-10-29 17:49:34,Dumpling Home,"37.787201, -122.400174",Restaurant,39.11,827
+2020-10-30 18:1:48,Dumpling Home,"37.787201, -122.400175",Restaurant,23.65,169
+2020-10-30 0:48:58,Dumpling Home,"37.787201, -122.400176",Restaurant,12.20,498
+2020-10-30 15:13:8,Dumpling Home,"37.787201, -122.400177",Restaurant,55.82,786
+2020-10-28 14:21:28,Dumpling Home,"37.787201, -122.400178",Restaurant,43.06,698
+2020-10-29 4:58:22,Dumpling Home,"37.787201, -122.400179",Restaurant,2.42,225
+2020-10-31 8:41:2,Dumpling Home,"37.787201, -122.400180",Restaurant,21.01,579
+2020-10-29 7:18:2,Dumpling Home,"37.787201, -122.400181",Restaurant,17.73,330
+2020-10-29 15:18:41,Dumpling Home,"37.787201, -122.400182",Restaurant,43.62,512
+2020-10-29 20:34:8,Dumpling Home,"37.787201, -122.400183",Restaurant,19.13,964
+2020-10-31 6:21:50,Dumpling Home,"37.787201, -122.400184",Restaurant,28.94,397
+2020-10-30 10:31:46,Cultivar San Francisco,"37.799820, -122.442413",Restaurant,8.79,253
+2020-10-30 9:23:59,Cultivar San Francisco,"37.799820, -122.442414",Restaurant,13.07,13
+2020-10-29 20:54:32,Cultivar San Francisco,"37.799820, -122.442415",Restaurant,10.72,266
+2020-10-29 13:14:23,Cultivar San Francisco,"37.799820, -122.442416",Restaurant,51.30,648
+2020-10-29 13:32:13,Cultivar San Francisco,"37.799820, -122.442417",Restaurant,33.44,566
+2020-10-30 8:58:56,Cultivar San Francisco,"37.799820, -122.442418",Restaurant,25.45,40
+2020-10-30 2:34:27,Cultivar San Francisco,"37.799820, -122.442419",Restaurant,55.99,653
+2020-10-31 4:47:41,Cultivar San Francisco,"37.799820, -122.442420",Restaurant,42.16,781
+2020-10-31 9:41:17,Cultivar San Francisco,"37.799820, -122.442421",Restaurant,35.79,857
+2020-10-30 11:5:28,Cultivar San Francisco,"37.799820, -122.442422",Restaurant,58.73,725
+2020-10-29 21:52:31,Cultivar San Francisco,"37.799820, -122.442423",Restaurant,32.25,764
+2020-10-28 23:6:59,Cultivar San Francisco,"37.799820, -122.442424",Restaurant,59.29,284
+2020-10-29 2:41:45,Cultivar San Francisco,"37.799820, -122.442425",Restaurant,24.58,508
+2020-10-29 2:28:12,Cultivar San Francisco,"37.799820, -122.442426",Restaurant,26.63,227
+2020-10-29 5:43:53,Cultivar San Francisco,"37.799820, -122.442427",Restaurant,1.21,11
+2020-10-29 4:2:52,Cultivar San Francisco,"37.799820, -122.442428",Restaurant,41.38,396
+2020-10-30 12:6:33,Cultivar San Francisco,"37.799820, -122.442429",Restaurant,11.72,226
+2020-10-31 6:21:58,Cultivar San Francisco,"37.799820, -122.442430",Restaurant,14.98,893
+2020-10-31 5:59:45,Cultivar San Francisco,"37.799820, -122.442431",Restaurant,21.88,251
+2020-10-28 13:8:53,Cultivar San Francisco,"37.799820, -122.442432",Restaurant,0.26,35
+2020-10-31 4:0:45,Cultivar San Francisco,"37.799820, -122.442433",Restaurant,31.33,666
+2020-10-30 22:54:11,Cultivar San Francisco,"37.799820, -122.442434",Restaurant,46.16,801
+2020-10-30 5:11:11,Cultivar San Francisco,"37.799820, -122.442435",Restaurant,37.29,855
+2020-10-31 0:36:47,Cultivar San Francisco,"37.799820, -122.442436",Restaurant,0.76,352
+2020-10-29 11:41:45,Cultivar San Francisco,"37.799820, -122.442437",Restaurant,32.90,25
+2020-10-30 2:28:43,Cultivar San Francisco,"37.799820, -122.442438",Restaurant,29.27,117
+2020-10-28 11:12:24,Cultivar San Francisco,"37.799820, -122.442439",Restaurant,38.22,77
+2020-10-28 15:41:51,Cultivar San Francisco,"37.799820, -122.442440",Restaurant,14.34,492
+2020-10-29 1:6:11,Cultivar San Francisco,"37.799820, -122.442441",Restaurant,26.16,919
+2020-10-30 15:37:28,Cultivar San Francisco,"37.799820, -122.442442",Restaurant,16.36,555
+2020-10-30 13:11:49,Cultivar San Francisco,"37.799820, -122.442443",Restaurant,44.53,717
+2020-10-29 4:49:58,Cultivar San Francisco,"37.799820, -122.442444",Restaurant,58.97,56
+2020-10-28 14:48:32,Cultivar San Francisco,"37.799820, -122.442445",Restaurant,43.60,751
+2020-10-29 12:33:29,Cultivar San Francisco,"37.799820, -122.442446",Restaurant,37.61,489
+2020-10-31 11:31:18,Cultivar San Francisco,"37.799820, -122.442447",Restaurant,49.56,719
+2020-10-28 21:51:0,Cultivar San Francisco,"37.799820, -122.442448",Restaurant,28.75,378
+2020-10-28 15:30:58,Cultivar San Francisco,"37.799820, -122.442449",Restaurant,40.51,189
+2020-10-29 22:27:7,Cultivar San Francisco,"37.799820, -122.442450",Restaurant,55.07,927
+2020-10-30 4:0:47,Cultivar San Francisco,"37.799820, -122.442451",Restaurant,13.67,799
+2020-10-29 15:18:51,Cultivar San Francisco,"37.799820, -122.442452",Restaurant,22.42,7
+2020-10-31 4:39:14,Cultivar San Francisco,"37.799820, -122.442453",Restaurant,58.18,400
+2020-10-30 0:36:16,Cultivar San Francisco,"37.799820, -122.442454",Restaurant,43.66,148
+2020-10-28 16:27:58,Cultivar San Francisco,"37.799820, -122.442455",Restaurant,50.67,505
+2020-10-30 4:39:23,Cultivar San Francisco,"37.799820, -122.442456",Restaurant,4.40,954
+2020-10-29 21:35:49,Cultivar San Francisco,"37.799820, -122.442457",Restaurant,13.20,2
+2020-10-29 14:15:53,Cultivar San Francisco,"37.799820, -122.442458",Restaurant,51.98,200
+2020-10-29 5:12:6,Cultivar San Francisco,"37.799820, -122.442459",Restaurant,44.45,305
+2020-10-29 12:21:31,Cultivar San Francisco,"37.799820, -122.442460",Restaurant,54.25,921
+2020-10-31 7:40:47,Cultivar San Francisco,"37.799820, -122.442461",Restaurant,5.47,396
+2020-10-30 6:40:58,Cultivar San Francisco,"37.799820, -122.442462",Restaurant,1.75,16
+2020-10-29 16:50:12,Gyu-Kaku Japanese BBQ,"37.782100, -122.403770",Restaurant,39.38,604
+2020-10-29 20:35:17,Gyu-Kaku Japanese BBQ,"37.782100, -122.403771",Restaurant,10.77,151
+2020-10-29 7:2:42,Gyu-Kaku Japanese BBQ,"37.782100, -122.403772",Restaurant,23.06,406
+2020-10-28 21:40:1,Gyu-Kaku Japanese BBQ,"37.782100, -122.403773",Restaurant,29.57,60
+2020-10-29 20:21:43,Gyu-Kaku Japanese BBQ,"37.782100, -122.403774",Restaurant,13.99,855
+2020-10-29 8:15:10,Gyu-Kaku Japanese BBQ,"37.782100, -122.403775",Restaurant,46.57,314
+2020-10-29 16:17:13,Gyu-Kaku Japanese BBQ,"37.782100, -122.403776",Restaurant,23.55,831
+2020-10-30 21:50:50,Gyu-Kaku Japanese BBQ,"37.782100, -122.403777",Restaurant,29.95,913
+2020-10-28 11:22:37,Gyu-Kaku Japanese BBQ,"37.782100, -122.403778",Restaurant,25.59,73
+2020-10-30 21:9:0,Gyu-Kaku Japanese BBQ,"37.782100, -122.403779",Restaurant,3.21,439
+2020-10-30 22:29:10,Gyu-Kaku Japanese BBQ,"37.782100, -122.403780",Restaurant,28.57,472
+2020-10-30 6:41:39,Gyu-Kaku Japanese BBQ,"37.782100, -122.403781",Restaurant,17.38,674
+2020-10-30 7:9:35,Gyu-Kaku Japanese BBQ,"37.782100, -122.403782",Restaurant,15.69,671
+2020-10-31 1:59:32,Gyu-Kaku Japanese BBQ,"37.782100, -122.403783",Restaurant,8.26,109
+2020-10-29 15:32:8,Gyu-Kaku Japanese BBQ,"37.782100, -122.403784",Restaurant,45.05,187
+2020-10-29 4:44:24,Gyu-Kaku Japanese BBQ,"37.782100, -122.403785",Restaurant,58.71,255
+2020-10-30 21:18:31,Gyu-Kaku Japanese BBQ,"37.782100, -122.403786",Restaurant,40.00,768
+2020-10-29 15:3:29,Gyu-Kaku Japanese BBQ,"37.782100, -122.403787",Restaurant,25.01,893
+2020-10-29 13:3:39,Gyu-Kaku Japanese BBQ,"37.782100, -122.403788",Restaurant,47.63,210
+2020-10-28 16:18:3,Gyu-Kaku Japanese BBQ,"37.782100, -122.403789",Restaurant,0.29,830
+2020-10-30 5:5:44,Lost Resort,"37.7594, -122.4088",Restaurant,26.99,457
+2020-10-30 16:18:32,Lost Resort,"37.7594, -122.4089",Restaurant,23.63,323
+2020-10-28 15:16:21,Lost Resort,"37.7594, -122.4090",Restaurant,44.24,672
+2020-10-28 18:59:12,Lost Resort,"37.7594, -122.4091",Restaurant,53.40,784
+2020-10-29 22:37:16,Lost Resort,"37.7594, -122.4092",Restaurant,24.01,732
+2020-10-29 23:33:13,Lost Resort,"37.7594, -122.4093",Restaurant,36.54,981
+2020-10-29 0:16:12,Lost Resort,"37.7594, -122.4094",Restaurant,47.32,686
+2020-10-29 15:11:48,Lost Resort,"37.7594, -122.4095",Restaurant,46.03,652
+2020-10-28 19:29:31,Lost Resort,"37.7594, -122.4096",Restaurant,45.76,766
+2020-10-28 21:21:4,Lost Resort,"37.7594, -122.4097",Restaurant,14.11,262
+2020-10-29 17:45:52,Lost Resort,"37.7594, -122.4098",Restaurant,31.20,165
+2020-10-28 12:16:56,Lost Resort,"37.7594, -122.4099",Restaurant,22.43,643
+2020-10-29 6:9:33,Lost Resort,"37.7594, -122.4100",Restaurant,46.27,778
+2020-10-28 18:48:50,Lost Resort,"37.7594, -122.4101",Restaurant,13.77,169
+2020-10-30 3:43:41,Lost Resort,"37.7594, -122.4102",Restaurant,14.00,833
+2020-10-29 0:1:2,Lost Resort,"37.7594, -122.4103",Restaurant,47.86,315
+2020-10-29 15:46:50,Lost Resort,"37.7594, -122.4104",Restaurant,39.99,562
+2020-10-29 3:19:45,Lost Resort,"37.7594, -122.4105",Restaurant,43.22,230
+2020-10-30 6:36:52,Lost Resort,"37.7594, -122.4106",Restaurant,6.08,586
+2020-10-29 20:44:33,Lost Resort,"37.7594, -122.4107",Restaurant,21.66,163
+2020-10-30 11:38:33,Lost Resort,"37.7594, -122.4107",Restaurant,4.34,542
+2020-10-28 17:35:24,Cultivar San Francisco,"37.799820, -122.442413",Restaurant,6.22,8
+2020-10-29 0:53:26,Tartine Manufactroy,"37.762030,-122.411600",Restaurant,45.94,995
+2020-10-29 22:24:24,Cultivar San Francisco,"37.799820, -122.442413",Restaurant,5.64,368
+2020-10-28 9:7:22,The Argentum Project,"37.781689, -122.409218",Restaurant,29.45,418
+2020-10-29 5:9:27,Tartine Manufactroy,"37.762030,-122.411600",Restaurant,26.71,823
+2020-10-30 17:49:43,Cultivar San Francisco,"37.799820, -122.442413",Restaurant,12.14,149
+2020-10-29 2:4:49,Mahila,"37.750900, -122.434330",Restaurant,30.60,9
+2020-10-29 16:38:10,Tartine Manufactroy,"37.762030,-122.411600",Restaurant,9.41,491
+2020-10-30 1:39:14,The Bird,"37.787201, -122.400101",Restaurant,6.47,994
+2020-10-29 17:43:44,The Bird,"37.787201, -122.400101",Restaurant,40.42,304
+2020-10-30 6:24:40,Asian American Food Company,"37.742550, -122.488070",Restaurant,48.00,79
+2020-10-28 22:50:45,Authentiko,"37.7767, -122.4025",Restaurant,10.42,956
+2020-10-30 2:19:40,Hog Island Oyster Co,"38.1621, -122.8936",Restaurant,50.55,48
+2020-10-29 6:16:50,Hoshinoya,"37.7862, -122.4297",Restaurant,4.27,444
+2020-10-29 17:19:10,Gyu-Kaku Japanese BBQ,"37.782100, -122.403770",Restaurant,49.64,151
+2020-10-30 18:57:45,Barzotto,"37.7525, -122.4209",Restaurant,56.69,805
+2020-10-31 8:43:30,Lost Resort,"37.7594, -122.4088",Restaurant,34.31,298
+2020-10-29 23:36:37,Dumpling Home,"37.7758, -122.4226",Restaurant,38.33,344
+2020-10-29 3:22:14,Chicken as Cluck,"37.7507, -122.3952",Restaurant,13.86,735
+2020-10-29 10:51:53,Dumpling Time,"37.7697, -122.4024",Restaurant,19.21,57
+2020-10-30 4:29:26,Souvla,"37.7765, -122.4250",Restaurant,34.91,765
+2020-10-30 5:46:51,Kitchen Story,"37.7643, -122.4307",Restaurant,41.51,453
+2020-10-30 4:6:28,Hog Island Oyster Co,"38.1621, -122.8936",Restaurant,19.28,558
+2020-10-29 11:41:58,Hoshinoya,"37.7862, -122.4297",Restaurant,56.13,253
+2020-10-30 11:52:55,Gyu-Kaku Japanese BBQ,"37.782100, -122.403770",Restaurant,0.60,926
+2020-10-29 22:39:7,Barzotto,"37.7862, -122.4297",Restaurant,10.42,189
+2020-10-31 4:6:53,Lost Resort,"37.7594, -122.4088",Restaurant,59.00,695
+2020-10-30 18:12:32,Dumpling Home,"37.7758, -122.4226",Restaurant,57.91,923
+2020-10-30 18:21:21,Chicken as Cluck,"37.7507, -122.3952",Restaurant,2.69,134
+2020-10-31 4:23:9,Dumpling Time,"37.7697, -122.4024",Restaurant,56.69,977
+2020-10-28 21:59:33,Souvla,"37.7765, -122.4250",Restaurant,38.23,250
+2020-10-29 21:52:36,Kitchen Story,"37.7643, -122.4307",Restaurant,40.16,345
+2020-10-29 10:4:58,House of Thai 2,"37.7722, -122.4303",Restaurant,29.49,186
+2020-10-28 10:42:58,Samila Thai Restaurant,"37.7818, -122.4852",Restaurant,6.56,530
+2020-10-29 2:47:20,Cracked & Battered - Marina,"37.8005, -122.4401",Restaurant,0.75,756
+2020-10-31 3:24:20,Limoncello,"37.7875, -122.4237",Restaurant,58.53,907
+2020-10-29 11:38:3,Kokkari Estiatorio,"37.7970, -122.3997",Restaurant,8.60,282
+2020-10-29 10:45:40,Marufuku Ramen SF,"37.782100, -122.403770",Restaurant,45.72,804
+2020-10-30 23:46:35,Aria Korean Street Food,"37.7866, -122.4180",Restaurant,9.64,317
+2020-10-29 11:40:8,Pier Market Seafood Restaurant,"37.8087, -122.4098",Restaurant,12.96,472
+2020-10-30 2:18:0,Beit Rima,"37.7687, -122.4293",Restaurant,35.66,854
+2020-10-29 5:33:59,Hook Fish,"37.7624, -122.5069",Restaurant,35.50,951
+2020-10-30 13:36:8,Alchemist Bar & Lounge,"37.7793, -122.3930",Restaurant,45.79,644
+2020-10-28 9:19:13,Presidio Kebab,"37.7881, -122.4468",Restaurant,34.42,806
+2020-10-28 17:3:42,Hog Island Oyster Co,"38.1621, -122.8936",Restaurant,18.49,855
+2020-10-30 18:3:3,Hog Island Oyster Co,"38.1621, -122.8937",Restaurant,11.21,0
+2020-10-28 22:51:41,Hog Island Oyster Co,"38.1621, -122.8938",Restaurant,28.60,402
+2020-10-29 0:47:15,Hog Island Oyster Co,"38.1621, -122.8939",Restaurant,5.26,502
+2020-10-30 17:52:25,Hog Island Oyster Co,"38.1621, -122.8940",Restaurant,18.71,31
+2020-10-30 23:51:46,Hog Island Oyster Co,"38.1621, -122.8941",Restaurant,55.10,574
+2020-10-30 2:19:14,Hog Island Oyster Co,"38.1621, -122.8942",Restaurant,6.70,982
+2020-10-28 12:20:25,Hog Island Oyster Co,"38.1621, -122.8943",Restaurant,15.93,24
+2020-10-29 17:8:6,Hog Island Oyster Co,"38.1621, -122.8944",Restaurant,44.87,651
+2020-10-30 22:28:31,Hog Island Oyster Co,"38.1621, -122.8945",Restaurant,18.02,478
+2020-10-28 14:15:36,Hog Island Oyster Co,"38.1621, -122.8946",Restaurant,7.18,221
+2020-10-30 9:5:10,Hog Island Oyster Co,"38.1621, -122.8947",Restaurant,30.43,376
+2020-10-31 0:41:55,Hog Island Oyster Co,"38.1621, -122.8948",Restaurant,50.19,800
+2020-10-29 10:53:3,Hog Island Oyster Co,"38.1621, -122.8949",Restaurant,56.20,950
+2020-10-29 9:1:0,Hog Island Oyster Co,"38.1621, -122.8950",Restaurant,42.64,198
+2020-10-30 8:40:39,Hog Island Oyster Co,"38.1621, -122.8951",Restaurant,50.11,159
+2020-10-30 19:22:1,Hog Island Oyster Co,"38.1621, -122.8952",Restaurant,59.62,109
+2020-10-28 10:0:5,Hog Island Oyster Co,"38.1621, -122.8953",Restaurant,58.50,353
+2020-10-31 7:6:34,Hog Island Oyster Co,"38.1621, -122.8954",Restaurant,33.86,105
+2020-10-29 22:24:40,Hog Island Oyster Co,"38.1621, -122.8955",Restaurant,49.39,810
+2020-10-29 19:8:27,Hog Island Oyster Co,"38.1621, -122.8956",Restaurant,8.84,523
+2020-10-29 19:12:26,Hog Island Oyster Co,"38.1621, -122.8957",Restaurant,59.74,712
+2020-10-31 3:49:21,Hog Island Oyster Co,"38.1621, -122.8958",Restaurant,47.54,200
+2020-10-31 4:23:27,Hog Island Oyster Co,"38.1621, -122.8959",Restaurant,50.15,475
+2020-10-30 13:36:26,Hog Island Oyster Co,"38.1621, -122.8960",Restaurant,38.92,281
+2020-10-30 2:31:38,Hog Island Oyster Co,"38.1621, -122.8961",Restaurant,37.20,746
+2020-10-28 16:47:30,Hog Island Oyster Co,"38.1621, -122.8962",Restaurant,52.32,22
+2020-10-29 18:0:13,Hog Island Oyster Co,"38.1621, -122.8963",Restaurant,41.67,911
+2020-10-30 12:44:23,Hog Island Oyster Co,"38.1621, -122.8964",Restaurant,47.09,509
+2020-10-29 9:23:37,Hog Island Oyster Co,"38.1621, -122.8965",Restaurant,1.35,597
+2020-10-28 21:49:6,Hog Island Oyster Co,"38.1621, -122.8966",Restaurant,21.22,678
+2020-10-28 13:23:32,The Bird,"37.787201, -122.400101",Restaurant,54.49,986
+2020-10-30 10:40:11,The Bird,"37.787201, -122.400102",Restaurant,15.96,401
+2020-10-29 12:15:20,The Bird,"37.787201, -122.400103",Restaurant,37.46,538
+2020-10-30 16:14:34,The Bird,"37.787201, -122.400104",Restaurant,37.99,938
+2020-10-29 5:23:21,The Bird,"37.787201, -122.400105",Restaurant,29.06,87
+2020-10-30 3:31:18,The Bird,"37.787201, -122.400106",Restaurant,18.18,612
+2020-10-29 10:49:41,The Bird,"37.787201, -122.400107",Restaurant,52.51,261
+2020-10-30 7:17:51,The Bird,"37.787201, -122.400108",Restaurant,37.02,269
+2020-10-29 15:36:47,The Bird,"37.787201, -122.400109",Restaurant,27.14,760
+2020-10-28 13:43:2,The Bird,"37.787201, -122.400110",Restaurant,8.55,739
+2020-10-28 11:19:51,The Bird,"37.787201, -122.400111",Restaurant,35.63,549
+2020-10-31 4:45:29,The Bird,"37.787201, -122.400112",Restaurant,3.49,628
+2020-10-30 5:59:8,The Bird,"37.787201, -122.400113",Restaurant,11.97,888
+2020-10-29 4:28:17,The Bird,"37.787201, -122.400114",Restaurant,54.67,21
+2020-10-28 12:24:1,The Bird,"37.787201, -122.400115",Restaurant,43.90,820
+2020-10-31 9:14:45,The Bird,"37.787201, -122.400116",Restaurant,57.66,557
+2020-10-31 11:5:17,The Bird,"37.787201, -122.400117",Restaurant,4.19,559
+2020-10-31 6:48:4,The Bird,"37.787201, -122.400118",Restaurant,10.47,480
+2020-10-29 4:35:50,The Bird,"37.787201, -122.400119",Restaurant,48.92,624
+2020-10-29 7:56:49,The Bird,"37.787201, -122.400120",Restaurant,0.27,796
+2020-10-31 7:2:59,The Bird,"37.787201, -122.400121",Restaurant,5.58,649
+2020-10-28 20:41:5,The Bird,"37.787201, -122.400122",Restaurant,36.79,123
+2020-10-29 4:4:42,The Bird,"37.787201, -122.400123",Restaurant,42.89,689
+2020-10-29 9:27:59,The Bird,"37.787201, -122.400124",Restaurant,49.89,973
+2020-10-29 13:23:18,Dumpling Home,"37.787201, -122.400125",Restaurant,44.64,261
+2020-10-30 1:55:27,Dumpling Home,"37.787201, -122.400126",Restaurant,40.14,440
+2020-10-29 5:58:41,Dumpling Home,"37.787201, -122.400127",Restaurant,50.28,163
+2020-10-30 20:59:10,Dumpling Home,"37.787201, -122.400128",Restaurant,12.59,631
+2020-10-30 8:24:19,Dumpling Home,"37.787201, -122.400129",Restaurant,46.42,253
+2020-10-28 19:38:56,Dumpling Home,"37.787201, -122.400130",Restaurant,29.95,214
+2020-10-29 3:39:11,Dumpling Home,"37.787201, -122.400131",Restaurant,11.71,825
+2020-10-30 23:34:58,Dumpling Home,"37.787201, -122.400132",Restaurant,48.05,317
+2020-10-28 17:6:40,Dumpling Home,"37.787201, -122.400133",Restaurant,8.98,423
+2020-10-28 19:26:53,Dumpling Home,"37.787201, -122.400134",Restaurant,10.70,0
+2020-10-29 0:7:57,Dumpling Home,"37.787201, -122.400135",Restaurant,38.65,14
+2020-10-29 8:33:36,Dumpling Home,"37.787201, -122.400136",Restaurant,56.42,697
+2020-10-30 6:7:12,Dumpling Home,"37.787201, -122.400137",Restaurant,2.13,194
+2020-10-29 18:7:32,Dumpling Home,"37.787201, -122.400138",Restaurant,16.83,349
+2020-10-30 18:33:41,Dumpling Home,"37.787201, -122.400139",Restaurant,15.09,329
+2020-10-29 8:37:27,Dumpling Home,"37.787201, -122.400140",Restaurant,44.10,908
+2020-10-30 9:32:21,Dumpling Home,"37.787201, -122.400141",Restaurant,12.34,933
+2020-10-29 17:20:42,Dumpling Home,"37.787201, -122.400142",Restaurant,57.09,496
+2020-10-31 10:7:4,Dumpling Home,"37.787201, -122.400143",Restaurant,43.59,250
+2020-10-29 11:53:8,Dumpling Home,"37.787201, -122.400144",Restaurant,9.08,196
+2020-10-29 23:39:43,Dumpling Home,"37.787201, -122.400145",Restaurant,7.68,264
+2020-10-29 17:48:55,Dumpling Home,"37.787201, -122.400146",Restaurant,1.93,402
+2020-10-28 22:32:2,Dumpling Home,"37.787201, -122.400147",Restaurant,20.86,630
+2020-10-29 16:26:56,Dumpling Home,"37.787201, -122.400148",Restaurant,32.87,512
+2020-10-29 9:33:42,Dumpling Home,"37.787201, -122.400149",Restaurant,47.85,980
+2020-10-30 8:56:17,Dumpling Home,"37.787201, -122.400150",Restaurant,57.07,564
+2020-10-30 8:51:39,Dumpling Home,"37.787201, -122.400151",Restaurant,58.25,544
+2020-10-29 21:26:13,Dumpling Home,"37.787201, -122.400152",Restaurant,48.75,361
+2020-10-29 14:19:12,Dumpling Home,"37.787201, -122.400153",Restaurant,59.74,51
+2020-10-29 4:41:51,Dumpling Home,"37.787201, -122.400154",Restaurant,21.66,891
+2020-10-31 11:27:25,Dumpling Home,"37.787201, -122.400155",Restaurant,30.91,763
+2020-10-30 7:28:20,Dumpling Home,"37.787201, -122.400156",Restaurant,39.05,914
+2020-10-28 21:37:34,Dumpling Home,"37.787201, -122.400157",Restaurant,7.91,274
+2020-10-28 21:43:56,Dumpling Home,"37.787201, -122.400158",Restaurant,43.84,926
+2020-10-29 4:53:51,Dumpling Home,"37.787201, -122.400159",Restaurant,33.67,824
+2020-10-28 9:32:17,Dumpling Home,"37.787201, -122.400160",Restaurant,6.62,528
+2020-10-29 0:45:15,Dumpling Home,"37.787201, -122.400161",Restaurant,27.25,44
+2020-10-29 14:35:15,Dumpling Home,"37.787201, -122.400162",Restaurant,34.70,67
+2020-10-30 11:37:52,Dumpling Home,"37.787201, -122.400163",Restaurant,32.15,918
+2020-10-31 8:28:25,Dumpling Home,"37.787201, -122.400164",Restaurant,40.13,300
+2020-10-29 13:19:39,Dumpling Home,"37.787201, -122.400165",Restaurant,55.39,251
+2020-10-31 6:6:38,Dumpling Home,"37.787201, -122.400166",Restaurant,37.53,675
+2020-10-29 6:45:13,Dumpling Home,"37.787201, -122.400167",Restaurant,57.11,58
+2020-10-29 7:23:51,Dumpling Home,"37.787201, -122.400168",Restaurant,58.72,733
+2020-10-30 15:26:29,Dumpling Home,"37.787201, -122.400169",Restaurant,11.38,429
+2020-10-29 23:46:48,Dumpling Home,"37.787201, -122.400170",Restaurant,13.61,904
+2020-10-28 12:59:34,Dumpling Home,"37.787201, -122.400171",Restaurant,30.58,542
+2020-10-28 20:44:41,Dumpling Home,"37.787201, -122.400172",Restaurant,55.18,654
+2020-10-30 13:9:55,Dumpling Home,"37.787201, -122.400173",Restaurant,31.63,745
+2020-10-30 6:22:10,Dumpling Home,"37.787201, -122.400174",Restaurant,43.38,860
+2020-10-30 4:38:35,Dumpling Home,"37.787201, -122.400175",Restaurant,36.44,795
+2020-10-28 16:27:24,Dumpling Home,"37.787201, -122.400176",Restaurant,39.72,684
+2020-10-29 9:5:7,Dumpling Home,"37.787201, -122.400177",Restaurant,22.44,964
+2020-10-29 15:15:16,Dumpling Home,"37.787201, -122.400178",Restaurant,42.70,401
+2020-10-31 4:27:32,Dumpling Home,"37.787201, -122.400179",Restaurant,12.04,425
+2020-10-30 17:3:57,Dumpling Home,"37.787201, -122.400180",Restaurant,15.09,868
+2020-10-29 20:13:34,Dumpling Home,"37.787201, -122.400181",Restaurant,58.12,641
+2020-10-30 20:52:22,Dumpling Home,"37.787201, -122.400182",Restaurant,46.69,235
+2020-10-28 10:2:46,Dumpling Home,"37.787201, -122.400183",Restaurant,16.01,124
+2020-10-28 13:31:49,Dumpling Home,"37.787201, -122.400184",Restaurant,24.93,207
+2020-10-29 11:16:49,Cultivar San Francisco,"37.799820, -122.442413",Restaurant,28.35,599
+2020-10-28 13:30:29,Cultivar San Francisco,"37.799820, -122.442414",Restaurant,56.82,704
+2020-10-29 9:26:43,Cultivar San Francisco,"37.799820, -122.442415",Restaurant,29.40,674
+2020-10-28 19:24:43,Cultivar San Francisco,"37.799820, -122.442416",Restaurant,12.82,527
+2020-10-29 2:44:11,Cultivar San Francisco,"37.799820, -122.442417",Restaurant,49.34,564
+2020-10-30 6:19:16,Cultivar San Francisco,"37.799820, -122.442418",Restaurant,16.63,217
+2020-10-30 23:2:5,Cultivar San Francisco,"37.799820, -122.442419",Restaurant,49.69,101
+2020-10-31 8:56:37,Cultivar San Francisco,"37.799820, -122.442420",Restaurant,35.91,155
+2020-10-28 11:0:0,Cultivar San Francisco,"37.799820, -122.442421",Restaurant,34.61,408
+2020-10-29 16:33:43,Cultivar San Francisco,"37.799820, -122.442422",Restaurant,49.88,556
+2020-10-30 13:27:0,Cultivar San Francisco,"37.799820, -122.442423",Restaurant,18.55,669
+2020-10-31 7:19:46,Cultivar San Francisco,"37.799820, -122.442424",Restaurant,8.73,662
+2020-10-31 4:16:52,Cultivar San Francisco,"37.799820, -122.442425",Restaurant,58.11,534
+2020-10-29 15:27:47,Cultivar San Francisco,"37.799820, -122.442426",Restaurant,7.75,481
+2020-10-28 17:22:29,Cultivar San Francisco,"37.799820, -122.442427",Restaurant,14.83,440
+2020-10-31 6:58:19,Cultivar San Francisco,"37.799820, -122.442428",Restaurant,18.37,914
+2020-10-28 21:26:59,Cultivar San Francisco,"37.799820, -122.442429",Restaurant,46.60,122
+2020-10-29 18:45:16,Cultivar San Francisco,"37.799820, -122.442430",Restaurant,15.85,118
+2020-10-31 6:32:50,Cultivar San Francisco,"37.799820, -122.442431",Restaurant,58.19,567
+2020-10-28 21:31:56,Cultivar San Francisco,"37.799820, -122.442432",Restaurant,30.77,872
+2020-10-29 14:56:40,Cultivar San Francisco,"37.799820, -122.442433",Restaurant,10.35,243
+2020-10-28 14:20:13,Cultivar San Francisco,"37.799820, -122.442434",Restaurant,28.85,941
+2020-10-29 5:54:15,Cultivar San Francisco,"37.799820, -122.442435",Restaurant,36.16,367
+2020-10-29 21:35:6,Cultivar San Francisco,"37.799820, -122.442436",Restaurant,47.61,728
+2020-10-31 6:1:27,Cultivar San Francisco,"37.799820, -122.442437",Restaurant,33.45,486
+2020-10-30 23:54:28,Cultivar San Francisco,"37.799820, -122.442438",Restaurant,34.99,368
+2020-10-30 12:0:21,Cultivar San Francisco,"37.799820, -122.442439",Restaurant,55.98,75
+2020-10-29 1:51:42,Cultivar San Francisco,"37.799820, -122.442440",Restaurant,25.71,384
+2020-10-28 13:14:38,Cultivar San Francisco,"37.799820, -122.442441",Restaurant,32.98,384
+2020-10-30 16:43:13,Cultivar San Francisco,"37.799820, -122.442442",Restaurant,15.15,887
+2020-10-31 11:55:29,Cultivar San Francisco,"37.799820, -122.442443",Restaurant,22.82,8
+2020-10-28 15:17:57,Cultivar San Francisco,"37.799820, -122.442444",Restaurant,18.95,666
+2020-10-29 8:17:46,Cultivar San Francisco,"37.799820, -122.442445",Restaurant,2.16,250
+2020-10-30 6:33:2,Cultivar San Francisco,"37.799820, -122.442446",Restaurant,56.10,767
+2020-10-30 22:39:56,Cultivar San Francisco,"37.799820, -122.442447",Restaurant,31.78,882
+2020-10-31 5:58:56,Cultivar San Francisco,"37.799820, -122.442448",Restaurant,19.54,164
+2020-10-29 16:43:50,Cultivar San Francisco,"37.799820, -122.442449",Restaurant,1.54,194
+2020-10-29 12:58:53,Cultivar San Francisco,"37.799820, -122.442450",Restaurant,28.48,93
+2020-10-28 21:1:22,Cultivar San Francisco,"37.799820, -122.442451",Restaurant,55.51,99
+2020-10-30 4:19:2,Cultivar San Francisco,"37.799820, -122.442452",Restaurant,49.22,304
+2020-10-30 23:11:38,Cultivar San Francisco,"37.799820, -122.442453",Restaurant,15.96,530
+2020-10-30 19:1:20,Cultivar San Francisco,"37.799820, -122.442454",Restaurant,38.77,153
+2020-10-30 5:52:40,Cultivar San Francisco,"37.799820, -122.442455",Restaurant,36.94,376
+2020-10-29 3:59:0,Cultivar San Francisco,"37.799820, -122.442456",Restaurant,16.41,410
+2020-10-29 0:37:8,Cultivar San Francisco,"37.799820, -122.442457",Restaurant,2.08,69
+2020-10-30 7:21:55,Cultivar San Francisco,"37.799820, -122.442458",Restaurant,34.44,167
+2020-10-30 16:17:36,Cultivar San Francisco,"37.799820, -122.442459",Restaurant,2.06,167
+2020-10-29 16:14:48,Cultivar San Francisco,"37.799820, -122.442460",Restaurant,41.81,566
+2020-10-28 11:44:20,Cultivar San Francisco,"37.799820, -122.442461",Restaurant,7.76,806
+2020-10-30 12:25:56,Cultivar San Francisco,"37.799820, -122.442462",Restaurant,40.56,414
+2020-10-30 22:18:58,Gyu-Kaku Japanese BBQ,"37.782100, -122.403770",Restaurant,40.59,982
+2020-10-30 19:53:28,Gyu-Kaku Japanese BBQ,"37.782100, -122.403771",Restaurant,24.42,758
+2020-10-28 19:48:49,Gyu-Kaku Japanese BBQ,"37.782100, -122.403772",Restaurant,38.92,53
+2020-10-30 21:1:51,Gyu-Kaku Japanese BBQ,"37.782100, -122.403773",Restaurant,35.05,524
+2020-10-31 7:42:33,Gyu-Kaku Japanese BBQ,"37.782100, -122.403774",Restaurant,33.85,735
+2020-10-30 10:21:8,Gyu-Kaku Japanese BBQ,"37.782100, -122.403775",Restaurant,0.03,747
+2020-10-28 12:52:54,Gyu-Kaku Japanese BBQ,"37.782100, -122.403776",Restaurant,23.45,654
+2020-10-31 4:9:30,Gyu-Kaku Japanese BBQ,"37.782100, -122.403777",Restaurant,1.31,743
+2020-10-30 9:45:53,Gyu-Kaku Japanese BBQ,"37.782100, -122.403778",Restaurant,8.19,160
+2020-10-28 23:5:19,Gyu-Kaku Japanese BBQ,"37.782100, -122.403779",Restaurant,3.56,322
+2020-10-31 7:29:15,Gyu-Kaku Japanese BBQ,"37.782100, -122.403780",Restaurant,59.21,687
+2020-10-30 20:44:53,Gyu-Kaku Japanese BBQ,"37.782100, -122.403781",Restaurant,51.19,385
+2020-10-28 23:21:14,Gyu-Kaku Japanese BBQ,"37.782100, -122.403782",Restaurant,54.47,783
+2020-10-29 19:49:8,Gyu-Kaku Japanese BBQ,"37.782100, -122.403783",Restaurant,29.78,613
+2020-10-29 5:22:1,Gyu-Kaku Japanese BBQ,"37.782100, -122.403784",Restaurant,8.15,671
+2020-10-29 5:14:38,Gyu-Kaku Japanese BBQ,"37.782100, -122.403785",Restaurant,1.97,483
+2020-10-30 12:35:15,Gyu-Kaku Japanese BBQ,"37.782100, -122.403786",Restaurant,48.52,407
+2020-10-29 14:44:5,Gyu-Kaku Japanese BBQ,"37.782100, -122.403787",Restaurant,8.16,162
+2020-10-28 23:27:53,Gyu-Kaku Japanese BBQ,"37.782100, -122.403788",Restaurant,31.95,197
+2020-10-28 10:36:18,Gyu-Kaku Japanese BBQ,"37.782100, -122.403789",Restaurant,19.66,902
+2020-10-28 17:26:20,Lost Resort,"37.7594, -122.4088",Restaurant,13.33,41
+2020-10-29 4:34:31,Lost Resort,"37.7594, -122.4089",Restaurant,33.94,648
+2020-10-29 6:18:5,Lost Resort,"37.7594, -122.4090",Restaurant,5.60,732
+2020-10-30 4:1:26,Lost Resort,"37.7594, -122.4091",Restaurant,58.23,842
+2020-10-31 9:47:29,Lost Resort,"37.7594, -122.4092",Restaurant,38.63,952
+2020-10-30 8:52:57,Lost Resort,"37.7594, -122.4093",Restaurant,51.51,751
+2020-10-28 13:35:8,Lost Resort,"37.7594, -122.4094",Restaurant,44.56,964
+2020-10-30 18:37:33,Lost Resort,"37.7594, -122.4095",Restaurant,47.39,284
+2020-10-29 5:19:4,Lost Resort,"37.7594, -122.4096",Restaurant,49.13,30
+2020-10-31 7:35:21,Lost Resort,"37.7594, -122.4097",Restaurant,53.08,780
+2020-10-31 6:56:40,Lost Resort,"37.7594, -122.4098",Restaurant,8.32,73
+2020-10-29 22:22:25,Lost Resort,"37.7594, -122.4099",Restaurant,9.49,497
+2020-10-31 1:18:11,Lost Resort,"37.7594, -122.4100",Restaurant,43.41,328
+2020-10-29 1:38:54,Lost Resort,"37.7594, -122.4101",Restaurant,52.53,640
+2020-10-30 4:30:12,Lost Resort,"37.7594, -122.4102",Restaurant,53.88,360
+2020-10-29 9:11:46,Lost Resort,"37.7594, -122.4103",Restaurant,42.70,868
+2020-10-30 15:32:55,Lost Resort,"37.7594, -122.4104",Restaurant,42.91,494
+2020-10-29 14:47:21,Lost Resort,"37.7594, -122.4105",Restaurant,42.64,994
+2020-10-29 21:10:20,Lost Resort,"37.7594, -122.4106",Restaurant,35.91,333
+2020-10-30 17:1:12,Lost Resort,"37.7594, -122.4107",Restaurant,13.13,730
+2020-10-28 14:11:3,Lost Resort,"37.7594, -122.4107",Restaurant,28.79,969
+2020-10-29 17:19:44,Cultivar San Francisco,"37.799820, -122.442413",Restaurant,38.63,825
+2020-10-30 18:16:22,Tartine Manufactroy,"37.762030,-122.411600",Restaurant,47.53,988
+2020-10-29 7:56:22,Cultivar San Francisco,"37.799820, -122.442413",Restaurant,33.24,738
+2020-10-29 12:17:38,The Argentum Project,"37.781689, -122.409218",Restaurant,37.96,762
+2020-10-29 14:0:30,Tartine Manufactroy,"37.762030,-122.411600",Restaurant,47.51,19
+2020-10-29 18:26:37,Cultivar San Francisco,"37.799820, -122.442413",Restaurant,53.44,494
+2020-10-29 13:45:19,Mahila,"37.750900, -122.434330",Restaurant,46.18,354
+2020-10-30 18:13:35,Tartine Manufactroy,"37.762030,-122.411600",Restaurant,27.90,193
+2020-10-29 4:44:49,The Bird,"37.787201, -122.400101",Restaurant,56.32,350
+2020-10-29 15:57:45,The Bird,"37.787201, -122.400101",Restaurant,25.46,24
+2020-10-29 22:2:32,Asian American Food Company,"37.742550, -122.488070",Restaurant,9.14,782
+2020-10-29 6:34:46,Authentiko,"37.7767, -122.4025",Restaurant,18.63,485
+2020-10-30 0:28:9,Hog Island Oyster Co,"38.1621, -122.8936",Restaurant,40.84,108
+2020-10-30 6:44:33,Hoshinoya,"37.7862, -122.4297",Restaurant,49.95,783
+2020-10-28 12:44:18,Gyu-Kaku Japanese BBQ,"37.782100, -122.403770",Restaurant,46.57,742
+2020-10-29 11:9:44,Barzotto,"37.7525, -122.4209",Restaurant,45.47,330
+2020-10-29 9:34:29,Lost Resort,"37.7594, -122.4088",Restaurant,38.16,449
+2020-10-29 10:39:22,Dumpling Home,"37.7758, -122.4226",Restaurant,35.79,170
+2020-10-29 16:16:20,Chicken as Cluck,"37.7507, -122.3952",Restaurant,8.12,819
+2020-10-31 11:53:43,Dumpling Time,"37.7697, -122.4024",Restaurant,30.99,403
+2020-10-31 11:16:7,Souvla,"37.7765, -122.4250",Restaurant,13.09,115
+2020-10-28 12:14:17,Kitchen Story,"37.7643, -122.4307",Restaurant,1.67,609
+2020-10-30 21:55:8,Hog Island Oyster Co,"38.1621, -122.8936",Restaurant,7.70,892
+2020-10-29 3:13:6,Hoshinoya,"37.7862, -122.4297",Restaurant,53.23,854
+2020-10-28 9:28:30,Gyu-Kaku Japanese BBQ,"37.782100, -122.403770",Restaurant,35.32,227
+2020-10-30 3:57:15,Barzotto,"37.7862, -122.4297",Restaurant,8.69,810
+2020-10-29 15:12:38,Lost Resort,"37.7594, -122.4088",Restaurant,37.91,742
+2020-10-31 7:10:13,Dumpling Home,"37.7758, -122.4226",Restaurant,14.67,330
+2020-10-30 9:31:20,Chicken as Cluck,"37.7507, -122.3952",Restaurant,37.78,447
+2020-10-31 10:26:52,Dumpling Time,"37.7697, -122.4024",Restaurant,27.26,346
+2020-10-28 12:43:7,Souvla,"37.7765, -122.4250",Restaurant,57.14,702
+2020-10-29 6:57:47,Kitchen Story,"37.7643, -122.4307",Restaurant,1.87,711
+2020-10-29 19:20:22,House of Thai 2,"37.7722, -122.4303",Restaurant,18.94,641
+2020-10-30 0:27:50,Samila Thai Restaurant,"37.7818, -122.4852",Restaurant,23.59,864
+2020-10-30 7:1:21,Cracked & Battered - Marina,"37.8005, -122.4401",Restaurant,24.47,891
+2020-10-29 2:16:47,Limoncello,"37.7875, -122.4237",Restaurant,4.97,986
+2020-10-30 3:55:23,Kokkari Estiatorio,"37.7970, -122.3997",Restaurant,20.55,111
+2020-10-30 12:9:15,Marufuku Ramen SF,"37.782100, -122.403770",Restaurant,0.14,712
+2020-10-30 3:42:48,Aria Korean Street Food,"37.7866, -122.4180",Restaurant,3.83,905
+2020-10-31 1:29:12,Pier Market Seafood Restaurant,"37.8087, -122.4098",Restaurant,46.45,896
+2020-10-30 22:14:39,Beit Rima,"37.7687, -122.4293",Restaurant,0.23,655
+2020-10-29 7:33:5,Hook Fish,"37.7624, -122.5069",Restaurant,21.71,702
+2020-10-30 17:1:23,Alchemist Bar & Lounge,"37.7793, -122.3930",Restaurant,58.82,636
+2020-10-28 21:15:21,Presidio Kebab,"37.7881, -122.4468",Restaurant,7.79,370
+2020-10-30 1:35:23,Hog Island Oyster Co,"38.1621, -122.8936",Restaurant,41.83,814
+2020-10-30 7:13:19,Hog Island Oyster Co,"38.1621, -122.8937",Restaurant,1.70,552
+2020-10-30 8:16:5,Hog Island Oyster Co,"38.1621, -122.8938",Restaurant,10.18,30
+2020-10-31 9:41:59,Hog Island Oyster Co,"38.1621, -122.8939",Restaurant,55.84,263
+2020-10-31 7:38:1,Hog Island Oyster Co,"38.1621, -122.8940",Restaurant,8.05,952
+2020-10-30 18:42:53,Hog Island Oyster Co,"38.1621, -122.8941",Restaurant,38.45,164
+2020-10-29 9:28:51,Hog Island Oyster Co,"38.1621, -122.8942",Restaurant,41.59,322
+2020-10-29 11:38:12,Hog Island Oyster Co,"38.1621, -122.8943",Restaurant,54.86,653
+2020-10-29 4:20:22,Hog Island Oyster Co,"38.1621, -122.8944",Restaurant,11.61,939
+2020-10-30 1:25:36,Hog Island Oyster Co,"38.1621, -122.8945",Restaurant,38.24,516
+2020-10-30 8:10:48,Hog Island Oyster Co,"38.1621, -122.8946",Restaurant,50.21,158
+2020-10-29 19:0:32,Hog Island Oyster Co,"38.1621, -122.8947",Restaurant,18.06,754
+2020-10-30 18:45:18,Hog Island Oyster Co,"38.1621, -122.8948",Restaurant,3.92,446
+2020-10-31 1:10:34,Hog Island Oyster Co,"38.1621, -122.8949",Restaurant,4.55,984
+2020-10-30 10:2:51,Hog Island Oyster Co,"38.1621, -122.8950",Restaurant,25.14,982
+2020-10-29 3:16:4,Hog Island Oyster Co,"38.1621, -122.8951",Restaurant,4.78,351
+2020-10-30 5:32:40,Hog Island Oyster Co,"38.1621, -122.8952",Restaurant,44.47,906
+2020-10-29 7:17:47,Hog Island Oyster Co,"38.1621, -122.8953",Restaurant,43.37,390
+2020-10-29 2:55:38,Hog Island Oyster Co,"38.1621, -122.8954",Restaurant,11.77,938
+2020-10-30 6:54:39,Hog Island Oyster Co,"38.1621, -122.8955",Restaurant,37.40,785
+2020-10-29 18:34:53,Hog Island Oyster Co,"38.1621, -122.8956",Restaurant,44.04,410
+2020-10-28 16:16:17,Hog Island Oyster Co,"38.1621, -122.8957",Restaurant,54.76,529
+2020-10-30 10:41:36,Hog Island Oyster Co,"38.1621, -122.8958",Restaurant,3.56,696
+2020-10-30 0:41:37,Hog Island Oyster Co,"38.1621, -122.8959",Restaurant,23.72,506
+2020-10-29 1:4:49,Hog Island Oyster Co,"38.1621, -122.8960",Restaurant,9.71,207
+2020-10-30 4:56:41,Hog Island Oyster Co,"38.1621, -122.8961",Restaurant,27.02,853
+2020-10-30 14:19:18,Hog Island Oyster Co,"38.1621, -122.8962",Restaurant,4.56,612
+2020-10-31 11:44:0,Hog Island Oyster Co,"38.1621, -122.8963",Restaurant,48.23,161
+2020-10-29 20:29:47,Hog Island Oyster Co,"38.1621, -122.8964",Restaurant,51.93,914
+2020-10-29 13:24:59,Hog Island Oyster Co,"38.1621, -122.8965",Restaurant,16.15,716
+2020-10-29 23:36:55,Hog Island Oyster Co,"38.1621, -122.8966",Restaurant,28.22,527
+2020-10-31 3:27:30,The Bird,"37.787201, -122.400101",Restaurant,25.62,932
+2020-10-31 6:48:34,The Bird,"37.787201, -122.400102",Restaurant,16.20,723
+2020-10-29 8:37:27,The Bird,"37.787201, -122.400103",Restaurant,39.24,227
+2020-10-29 21:50:39,The Bird,"37.787201, -122.400104",Restaurant,43.21,215
+2020-10-31 11:24:42,The Bird,"37.787201, -122.400105",Restaurant,16.48,238
+2020-10-30 0:42:27,The Bird,"37.787201, -122.400106",Restaurant,0.10,605
+2020-10-29 4:1:7,The Bird,"37.787201, -122.400107",Restaurant,21.98,401
+2020-10-29 4:38:44,The Bird,"37.787201, -122.400108",Restaurant,26.95,92
+2020-10-30 17:25:40,The Bird,"37.787201, -122.400109",Restaurant,28.57,207
+2020-10-28 9:40:52,The Bird,"37.787201, -122.400110",Restaurant,11.91,338
+2020-10-31 9:30:28,The Bird,"37.787201, -122.400111",Restaurant,22.59,172
+2020-10-30 16:44:59,The Bird,"37.787201, -122.400112",Restaurant,29.59,308
+2020-10-29 13:56:18,The Bird,"37.787201, -122.400113",Restaurant,48.96,21
+2020-10-28 16:25:56,The Bird,"37.787201, -122.400114",Restaurant,0.65,616
+2020-10-31 4:57:51,The Bird,"37.787201, -122.400115",Restaurant,50.68,457
+2020-10-28 22:26:58,The Bird,"37.787201, -122.400116",Restaurant,45.02,442
+2020-10-29 11:31:39,The Bird,"37.787201, -122.400117",Restaurant,5.49,753
+2020-10-31 11:30:55,The Bird,"37.787201, -122.400118",Restaurant,42.76,494
+2020-10-29 17:8:19,The Bird,"37.787201, -122.400119",Restaurant,59.81,576
+2020-10-30 19:40:5,The Bird,"37.787201, -122.400120",Restaurant,16.18,135
+2020-10-31 9:46:42,The Bird,"37.787201, -122.400121",Restaurant,32.53,789
+2020-10-28 18:53:27,The Bird,"37.787201, -122.400122",Restaurant,59.92,65
+2020-10-29 19:48:59,The Bird,"37.787201, -122.400123",Restaurant,27.00,91
+2020-10-31 3:3:39,The Bird,"37.787201, -122.400124",Restaurant,30.80,700
+2020-10-28 17:54:0,Dumpling Home,"37.787201, -122.400125",Restaurant,23.87,7
+2020-10-28 18:43:43,Dumpling Home,"37.787201, -122.400126",Restaurant,59.33,799
+2020-10-30 7:48:9,Dumpling Home,"37.787201, -122.400127",Restaurant,38.50,283
+2020-10-30 17:1:28,Dumpling Home,"37.787201, -122.400128",Restaurant,59.48,165
+2020-10-29 0:54:54,Dumpling Home,"37.787201, -122.400129",Restaurant,1.92,394
+2020-10-31 5:48:37,Dumpling Home,"37.787201, -122.400130",Restaurant,0.62,13
+2020-10-30 17:28:41,Dumpling Home,"37.787201, -122.400131",Restaurant,16.69,680
+2020-10-30 7:30:0,Dumpling Home,"37.787201, -122.400132",Restaurant,21.93,619
+2020-10-31 2:58:5,Dumpling Home,"37.787201, -122.400133",Restaurant,7.22,89
+2020-10-31 2:32:39,Dumpling Home,"37.787201, -122.400134",Restaurant,55.96,246
+2020-10-30 9:42:10,Dumpling Home,"37.787201, -122.400135",Restaurant,14.94,911
+2020-10-28 14:28:3,Dumpling Home,"37.787201, -122.400136",Restaurant,5.13,263
+2020-10-28 22:35:57,Dumpling Home,"37.787201, -122.400137",Restaurant,58.89,588
+2020-10-29 21:8:47,Dumpling Home,"37.787201, -122.400138",Restaurant,42.99,664
+2020-10-30 12:39:1,Dumpling Home,"37.787201, -122.400139",Restaurant,23.55,452
+2020-10-31 10:9:5,Dumpling Home,"37.787201, -122.400140",Restaurant,28.29,930
+2020-10-31 6:59:30,Dumpling Home,"37.787201, -122.400141",Restaurant,34.13,476
+2020-10-29 20:50:30,Dumpling Home,"37.787201, -122.400142",Restaurant,11.17,330
+2020-10-29 22:24:32,Dumpling Home,"37.787201, -122.400143",Restaurant,1.94,919
+2020-10-30 13:29:24,Dumpling Home,"37.787201, -122.400144",Restaurant,26.75,317
+2020-10-30 19:4:18,Dumpling Home,"37.787201, -122.400145",Restaurant,36.90,498
+2020-10-28 13:1:55,Dumpling Home,"37.787201, -122.400146",Restaurant,18.97,713
+2020-10-30 21:41:1,Dumpling Home,"37.787201, -122.400147",Restaurant,38.49,310
+2020-10-31 11:0:6,Dumpling Home,"37.787201, -122.400148",Restaurant,3.82,251
+2020-10-30 9:21:54,Dumpling Home,"37.787201, -122.400149",Restaurant,18.84,267
+2020-10-30 17:27:35,Dumpling Home,"37.787201, -122.400150",Restaurant,22.39,372
+2020-10-29 11:11:31,Dumpling Home,"37.787201, -122.400151",Restaurant,57.76,226
+2020-10-30 11:45:24,Dumpling Home,"37.787201, -122.400152",Restaurant,56.38,739
+2020-10-31 5:10:54,Dumpling Home,"37.787201, -122.400153",Restaurant,23.25,939
+2020-10-31 9:47:12,Dumpling Home,"37.787201, -122.400154",Restaurant,24.76,963
+2020-10-31 10:38:30,Dumpling Home,"37.787201, -122.400155",Restaurant,28.54,514
+2020-10-29 3:15:46,Dumpling Home,"37.787201, -122.400156",Restaurant,7.13,346
+2020-10-30 9:9:25,Dumpling Home,"37.787201, -122.400157",Restaurant,18.10,452
+2020-10-29 14:21:5,Dumpling Home,"37.787201, -122.400158",Restaurant,43.85,175
+2020-10-30 22:41:46,Dumpling Home,"37.787201, -122.400159",Restaurant,42.03,918
+2020-10-28 17:44:19,Dumpling Home,"37.787201, -122.400160",Restaurant,32.28,298
+2020-10-31 4:52:35,Dumpling Home,"37.787201, -122.400161",Restaurant,41.39,862
+2020-10-30 9:16:14,Dumpling Home,"37.787201, -122.400162",Restaurant,0.60,771
+2020-10-28 9:56:7,Dumpling Home,"37.787201, -122.400163",Restaurant,2.63,106
+2020-10-29 10:44:9,Dumpling Home,"37.787201, -122.400164",Restaurant,33.10,99
+2020-10-30 5:30:56,Dumpling Home,"37.787201, -122.400165",Restaurant,29.50,186
+2020-10-30 14:29:42,Dumpling Home,"37.787201, -122.400166",Restaurant,6.79,448
+2020-10-30 10:47:18,Dumpling Home,"37.787201, -122.400167",Restaurant,32.62,707
+2020-10-30 17:12:58,Dumpling Home,"37.787201, -122.400168",Restaurant,59.09,755
+2020-10-30 17:46:19,Dumpling Home,"37.787201, -122.400169",Restaurant,16.37,367
+2020-10-28 13:14:43,Dumpling Home,"37.787201, -122.400170",Restaurant,40.18,70
+2020-10-31 0:54:52,Dumpling Home,"37.787201, -122.400171",Restaurant,43.00,834
+2020-10-31 5:54:14,Dumpling Home,"37.787201, -122.400172",Restaurant,23.47,902
+2020-10-29 7:22:39,Dumpling Home,"37.787201, -122.400173",Restaurant,9.92,836
+2020-10-28 18:35:20,Dumpling Home,"37.787201, -122.400174",Restaurant,56.79,234
+2020-10-30 19:7:11,Dumpling Home,"37.787201, -122.400175",Restaurant,22.48,77
+2020-10-28 10:3:58,Dumpling Home,"37.787201, -122.400176",Restaurant,28.97,145
+2020-10-30 21:30:12,Dumpling Home,"37.787201, -122.400177",Restaurant,5.78,341
+2020-10-31 5:48:6,Dumpling Home,"37.787201, -122.400178",Restaurant,3.49,127
+2020-10-28 9:9:15,Dumpling Home,"37.787201, -122.400179",Restaurant,9.87,154
+2020-10-29 19:7:36,Dumpling Home,"37.787201, -122.400180",Restaurant,18.59,152
+2020-10-30 6:31:53,Dumpling Home,"37.787201, -122.400181",Restaurant,28.78,742
+2020-10-28 12:7:9,Dumpling Home,"37.787201, -122.400182",Restaurant,8.75,988
+2020-10-28 10:0:17,Dumpling Home,"37.787201, -122.400183",Restaurant,3.02,578
+2020-10-29 14:53:22,Dumpling Home,"37.787201, -122.400184",Restaurant,1.71,875
+2020-10-31 9:49:43,Cultivar San Francisco,"37.799820, -122.442413",Restaurant,58.50,746
+2020-10-30 11:1:47,Cultivar San Francisco,"37.799820, -122.442414",Restaurant,54.84,857
+2020-10-30 13:6:54,Cultivar San Francisco,"37.799820, -122.442415",Restaurant,22.95,996
+2020-10-28 10:35:28,Cultivar San Francisco,"37.799820, -122.442416",Restaurant,24.10,994
+2020-10-29 15:49:44,Cultivar San Francisco,"37.799820, -122.442417",Restaurant,34.04,323
+2020-10-30 14:6:53,Cultivar San Francisco,"37.799820, -122.442418",Restaurant,10.26,904
+2020-10-30 14:20:38,Cultivar San Francisco,"37.799820, -122.442419",Restaurant,2.84,384
+2020-10-31 1:43:12,Cultivar San Francisco,"37.799820, -122.442420",Restaurant,14.95,241
+2020-10-31 4:34:34,Cultivar San Francisco,"37.799820, -122.442421",Restaurant,50.95,882
+2020-10-29 19:35:36,Cultivar San Francisco,"37.799820, -122.442422",Restaurant,33.47,816
+2020-10-29 3:19:13,Cultivar San Francisco,"37.799820, -122.442423",Restaurant,49.80,877
+2020-10-30 13:36:25,Cultivar San Francisco,"37.799820, -122.442424",Restaurant,2.06,975
+2020-10-30 12:42:52,Cultivar San Francisco,"37.799820, -122.442425",Restaurant,22.64,713
+2020-10-29 10:33:48,Cultivar San Francisco,"37.799820, -122.442426",Restaurant,30.20,47
+2020-10-31 5:55:39,Cultivar San Francisco,"37.799820, -122.442427",Restaurant,43.75,228
+2020-10-30 15:54:19,Cultivar San Francisco,"37.799820, -122.442428",Restaurant,6.20,283
+2020-10-30 8:27:22,Cultivar San Francisco,"37.799820, -122.442429",Restaurant,9.56,788
+2020-10-30 6:36:57,Cultivar San Francisco,"37.799820, -122.442430",Restaurant,18.23,362
+2020-10-31 8:42:27,Cultivar San Francisco,"37.799820, -122.442431",Restaurant,50.23,51
+2020-10-30 10:36:54,Cultivar San Francisco,"37.799820, -122.442432",Restaurant,57.76,297
+2020-10-30 23:1:22,Cultivar San Francisco,"37.799820, -122.442433",Restaurant,40.95,799
+2020-10-30 6:13:23,Cultivar San Francisco,"37.799820, -122.442434",Restaurant,46.46,436
+2020-10-29 10:4:10,Cultivar San Francisco,"37.799820, -122.442435",Restaurant,3.38,848
+2020-10-31 2:23:5,Cultivar San Francisco,"37.799820, -122.442436",Restaurant,38.16,16
+2020-10-30 22:40:16,Cultivar San Francisco,"37.799820, -122.442437",Restaurant,24.28,470
+2020-10-30 6:53:38,Cultivar San Francisco,"37.799820, -122.442438",Restaurant,23.43,509
+2020-10-30 11:52:57,Cultivar San Francisco,"37.799820, -122.442439",Restaurant,39.01,812
+2020-10-29 7:18:37,Cultivar San Francisco,"37.799820, -122.442440",Restaurant,34.73,154
+2020-10-30 13:8:5,Cultivar San Francisco,"37.799820, -122.442441",Restaurant,51.60,204
+2020-10-29 13:7:7,Cultivar San Francisco,"37.799820, -122.442442",Restaurant,41.63,667
+2020-10-29 22:21:4,Cultivar San Francisco,"37.799820, -122.442443",Restaurant,37.90,254
+2020-10-30 9:57:17,Cultivar San Francisco,"37.799820, -122.442444",Restaurant,47.36,430
+2020-10-30 0:4:3,Cultivar San Francisco,"37.799820, -122.442445",Restaurant,54.36,791
+2020-10-30 0:24:28,Cultivar San Francisco,"37.799820, -122.442446",Restaurant,44.52,266
+2020-10-30 15:13:33,Cultivar San Francisco,"37.799820, -122.442447",Restaurant,2.64,920
+2020-10-28 19:51:25,Cultivar San Francisco,"37.799820, -122.442448",Restaurant,9.28,301
+2020-10-30 16:33:16,Cultivar San Francisco,"37.799820, -122.442449",Restaurant,44.77,281
+2020-10-29 0:25:57,Cultivar San Francisco,"37.799820, -122.442450",Restaurant,37.67,482
+2020-10-29 4:12:11,Cultivar San Francisco,"37.799820, -122.442451",Restaurant,49.88,788
+2020-10-30 11:24:50,Cultivar San Francisco,"37.799820, -122.442452",Restaurant,39.57,867
+2020-10-28 17:42:47,Cultivar San Francisco,"37.799820, -122.442453",Restaurant,31.77,313
+2020-10-31 10:13:5,Cultivar San Francisco,"37.799820, -122.442454",Restaurant,30.31,992
+2020-10-29 8:7:4,Cultivar San Francisco,"37.799820, -122.442455",Restaurant,28.22,420
+2020-10-29 16:33:19,Cultivar San Francisco,"37.799820, -122.442456",Restaurant,14.30,150
+2020-10-29 4:21:20,Cultivar San Francisco,"37.799820, -122.442457",Restaurant,40.24,317
+2020-10-29 10:41:48,Cultivar San Francisco,"37.799820, -122.442458",Restaurant,9.91,954
+2020-10-29 10:28:35,Cultivar San Francisco,"37.799820, -122.442459",Restaurant,47.43,374
+2020-10-30 8:14:26,Cultivar San Francisco,"37.799820, -122.442460",Restaurant,23.52,88
+2020-10-29 23:49:33,Cultivar San Francisco,"37.799820, -122.442461",Restaurant,0.84,821
+2020-10-28 17:2:21,Cultivar San Francisco,"37.799820, -122.442462",Restaurant,57.64,706
+2020-10-29 4:27:58,Gyu-Kaku Japanese BBQ,"37.782100, -122.403770",Restaurant,43.43,208
+2020-10-29 2:32:12,Gyu-Kaku Japanese BBQ,"37.782100, -122.403771",Restaurant,43.05,277
+2020-10-30 1:49:11,Gyu-Kaku Japanese BBQ,"37.782100, -122.403772",Restaurant,55.71,1
+2020-10-29 6:13:1,Gyu-Kaku Japanese BBQ,"37.782100, -122.403773",Restaurant,54.43,59
+2020-10-29 21:29:51,Gyu-Kaku Japanese BBQ,"37.782100, -122.403774",Restaurant,19.23,366
+2020-10-28 10:9:29,Gyu-Kaku Japanese BBQ,"37.782100, -122.403775",Restaurant,0.07,900
+2020-10-30 14:34:24,Gyu-Kaku Japanese BBQ,"37.782100, -122.403776",Restaurant,37.86,14
+2020-10-29 7:43:51,Gyu-Kaku Japanese BBQ,"37.782100, -122.403777",Restaurant,24.54,700
+2020-10-30 20:36:41,Gyu-Kaku Japanese BBQ,"37.782100, -122.403778",Restaurant,34.22,394
+2020-10-30 11:40:58,Gyu-Kaku Japanese BBQ,"37.782100, -122.403779",Restaurant,44.72,549
+2020-10-30 5:18:28,Gyu-Kaku Japanese BBQ,"37.782100, -122.403780",Restaurant,9.98,335
+2020-10-31 6:8:27,Gyu-Kaku Japanese BBQ,"37.782100, -122.403781",Restaurant,21.00,905
+2020-10-30 23:45:12,Gyu-Kaku Japanese BBQ,"37.782100, -122.403782",Restaurant,35.94,454
+2020-10-31 5:59:1,Gyu-Kaku Japanese BBQ,"37.782100, -122.403783",Restaurant,16.03,685
+2020-10-28 10:45:52,Gyu-Kaku Japanese BBQ,"37.782100, -122.403784",Restaurant,35.32,504
+2020-10-29 18:12:31,Gyu-Kaku Japanese BBQ,"37.782100, -122.403785",Restaurant,13.51,872
+2020-10-29 21:0:53,Gyu-Kaku Japanese BBQ,"37.782100, -122.403786",Restaurant,56.37,676
+2020-10-28 12:51:13,Gyu-Kaku Japanese BBQ,"37.782100, -122.403787",Restaurant,40.63,170
+2020-10-29 3:40:34,Gyu-Kaku Japanese BBQ,"37.782100, -122.403788",Restaurant,43.98,831
+2020-10-30 2:22:24,Gyu-Kaku Japanese BBQ,"37.782100, -122.403789",Restaurant,15.41,733
+2020-10-28 13:14:16,Lost Resort,"37.7594, -122.4088",Restaurant,21.05,673
+2020-10-30 17:57:20,Lost Resort,"37.7594, -122.4089",Restaurant,25.04,858
+2020-10-28 21:5:19,Lost Resort,"37.7594, -122.4090",Restaurant,41.97,877
+2020-10-29 18:53:35,Lost Resort,"37.7594, -122.4091",Restaurant,19.79,0
+2020-10-29 17:48:57,Lost Resort,"37.7594, -122.4092",Restaurant,14.12,631
+2020-10-29 14:9:12,Lost Resort,"37.7594, -122.4093",Restaurant,26.20,977
+2020-10-29 18:3:0,Lost Resort,"37.7594, -122.4094",Restaurant,26.43,719
+2020-10-31 7:59:43,Lost Resort,"37.7594, -122.4095",Restaurant,42.56,696
+2020-10-30 13:7:28,Lost Resort,"37.7594, -122.4096",Restaurant,38.40,566
+2020-10-29 4:15:1,Lost Resort,"37.7594, -122.4097",Restaurant,4.41,950
+2020-10-29 3:47:56,Lost Resort,"37.7594, -122.4098",Restaurant,54.18,750
+2020-10-31 8:56:40,Lost Resort,"37.7594, -122.4099",Restaurant,17.38,772
+2020-10-29 1:14:37,Lost Resort,"37.7594, -122.4100",Restaurant,54.54,122
+2020-10-31 5:8:53,Lost Resort,"37.7594, -122.4101",Restaurant,47.41,231
+2020-10-29 9:56:14,Lost Resort,"37.7594, -122.4102",Restaurant,5.72,422
+2020-10-29 2:30:10,Lost Resort,"37.7594, -122.4103",Restaurant,56.38,986
+2020-10-29 13:37:51,Lost Resort,"37.7594, -122.4104",Restaurant,19.38,546
+2020-10-29 15:56:43,Lost Resort,"37.7594, -122.4105",Restaurant,45.85,788
+2020-10-29 12:44:49,Lost Resort,"37.7594, -122.4106",Restaurant,31.37,764
+2020-10-31 11:41:0,Lost Resort,"37.7594, -122.4107",Restaurant,24.73,43
+2020-10-31 4:57:1,Lost Resort,"37.7594, -122.4107",Restaurant,58.70,979
